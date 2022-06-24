@@ -1,0 +1,117 @@
+
+.pageBg {
+	padding: 15px 0;
+
+	background-color: rgba(red, green, blue, 0.4);
+	background-image: url('/main.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+
+.inputField {
+	width: 100%;
+	height: 50px;
+	border-radius: 5px;
+	border: 1px solid lightgray;
+	padding-left: 15px;
+	margin-bottom: 15px;
+}
+
+.inputField:last-child {
+	margin-bottom: 0;
+}
+
+.inputField:hover,
+.inputField:focus,
+.inputField:active {
+	outline-color: #6f42c1;
+}
+
+.cardDate {
+	display: grid;
+	grid-template-columns: repeat(3, auto);
+
+	margin: 100px 0 30px 0;
+}
+
+.cardNum {
+	grid-column: 1 / 4;
+
+	margin-bottom: 15px;
+	width: 100%;
+	height: 50px;
+	border-radius: 5px;
+	border: 1px solid lightgray;
+	padding-left: 15px;
+}
+
+.cardNum:hover,
+.cardNum:focus,
+.cardNum:active {
+	
+	outline-color: #6f42c1;
+}
+
+.cardTerm {
+	grid-column: 48%;
+
+	margin-right: 15px;
+	height: 50px;
+	border-radius: 5px;
+	border: 1px solid lightgray;
+	padding-left: 15px;
+}
+
+.cardTerm:hover,
+.cardTerm:focus,
+.cardTerm:active {
+	
+	outline-color: #6f42c1;
+}
+
+.cardCvv {
+	grid-column: 48%;
+	height: 50px;
+	border-radius: 5px;
+	border: 1px solid lightgray;
+	padding-left: 15px;
+}
+
+.cardCvv:hover,
+.cardCvv:focus,
+.cardCvv:active {
+	
+	outline-color: #6f42c1;
+}
+
+.complit {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: 100wv;
+	height: 95vh;
+}
+
+.box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: 20%;
+	height: 10%;
+	padding: 15px;
+
+	color: #FFF;
+	border-radius: 4px;
+	background-color: #43A047;
+}
+
+@media screen and (max-width: 500px) {
+	.box {
+		width: 70%;
+	}
+}

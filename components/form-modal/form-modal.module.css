@@ -1,0 +1,63 @@
+
+.form {
+	display: flex;
+	column-gap: 15px;
+}
+
+.form > div {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.textArea {
+	height: 50px;
+	min-height: 50px;
+}
+
+.btn {
+	width: 300px;
+	height: 50px;
+
+	text-transform: uppercase;
+
+	color: #FFF;
+	border: none;
+	border-radius: 50px;
+	background-color: #F58B13;
+
+	font-weight: 700;
+}
+
+.btn:hover,
+.btn:focus {
+	background-color: #EA7C00;
+}
+
+.formBtn {
+	width: 100%;
+	padding: 5px 0;
+
+	letter-spacing: 2px;
+
+	color: #FFF;
+	border: none;
+	border-radius: 5px;
+	background-color: #F58B13;
+
+	font-size: 20px;
+	font-weight: 500;
+}
+
+@media screen and (max-width: 960px) {
+	.form {
+		flex-direction: column;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.form {
+		flex-direction: column;
+	}
+}

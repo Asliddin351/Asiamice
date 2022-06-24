@@ -1,0 +1,98 @@
+
+.hotels {
+    margin: 50px 0;
+}
+
+.title {
+    border-bottom: 3px solid #F58B13;
+    width: auto;
+    display: inline-block;
+}
+
+.content {
+    display: grid;
+    grid-template-areas: "city main hotel";
+    grid-template-columns: 250px 1fr 250px;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 40px;
+    column-gap: 25px;
+    position: relative;
+}
+
+.content_left {
+    /* width: calc(100% / 4); */
+    /* padding: 0 15px; */
+    grid-area: city;
+}
+
+
+
+.content_right {
+    /* width: calc(100% / 4); */
+    /* padding: 0 15px; */
+    grid-area: hotel;
+}
+
+.btnFilter {
+    width: 100%;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    background-color: #F58B13;
+    margin-bottom: 10px;
+    padding: 10px 0;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+} 
+
+.btnFilter:hover {
+    color: #fff;
+}
+
+.cities_btnGroup {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* .btnFilter:active,
+.btnFilter:focus,
+.btnFilter:hover {
+    background-color: #fff;
+    border: 2px solid #F58B13;
+    color: #000;
+} */
+
+.active {
+    background-color: #fff;
+    border: 2px solid #F58B13;
+    color: #000;
+}
+
+.btnFilter:last-child {
+    margin-bottom: 0;
+}
+
+.filterHotel {
+    display: none;
+}
+
+@media screen and (max-width: 992px) {
+
+    .content {
+        grid-template-areas: "city hotel";
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .filterHotel {
+        display: flex;
+        justify-content: space-between;
+        column-gap: 15px;
+    }
+
+    .content_left {
+        /* grid-column: ; */
+    }
+
+}

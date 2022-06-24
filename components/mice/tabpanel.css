@@ -1,0 +1,59 @@
+.mice-tab {
+	margin: 50px 0;
+}
+
+.mice-tab h2 {
+	color: #004977;
+}
+
+.mice-tab hr {
+	width: 200px;
+	height: 3px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+
+	text-align: center;
+
+	background-color: #004977;
+}
+
+.tabs-control {
+	justify-content: center;
+}
+
+.tab-content {
+	display: flex;
+
+	background-color: #004977;
+}
+
+.mice-title {
+	width: 250px;
+	margin: 0 0 20px;
+	padding: 0 0 10px;
+
+	text-transform: uppercase;
+
+	color: #FFF;
+	border-bottom: 4px solid #FFF;
+
+	font-weight: 600;
+}
+
+.txt {
+	color: #FFF;
+
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 1.4em;
+}
+
+/* .tab-content .col:first-child {
+    padding-left: 0;
+    padding-right: 0;
+} */
+
+.tab-content .col:last-child {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}

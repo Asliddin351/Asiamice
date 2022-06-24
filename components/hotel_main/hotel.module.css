@@ -1,0 +1,17 @@
+.contentMain {
+    border: 2px solid lightgray;
+    padding: 15px;
+    margin: 30px 0;
+}
+
+
+
+.hotelSlider {
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 992px) {
+    .contentMain {
+        grid-column: 1 / -1;
+    }
+}

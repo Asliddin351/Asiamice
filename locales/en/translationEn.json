@@ -1,0 +1,682 @@
+{
+    "next": "next",
+    "prev": "prev",
+    "links": {
+        "tours": "Tours",
+        "contacts": "Contacts",
+        "about": "About",
+        "mice": "M.I.C.E",
+        "memo": "Memo for tourists",
+        "faq": "FAQ",
+        "hotels": "Hotels",
+        "blog": "Blog",
+        "payment": "Payment"
+    },
+
+    "login": "LOGIN",
+    "register": "REGISTRATION",
+    "stars": "Stars in the hotel",
+
+    "afterInput": {
+        "title": "Search for your favourite:",
+        "discription": "restaurant, museum, hotel, attractions"
+    },
+
+
+    "blog": {
+        "category": "categories",
+        "categoryText": "No categories",
+        "title": {
+            "t1": "Our tours"
+        },
+        "card-1": {
+            "title": "Exploring the food in the heart of the London",
+            "date": "25 Aug, 2016",
+            "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+            "user-name": "by Felecia Wilson"
+        },
+
+        "card-2": {
+            "title": "The history and architecture of England",
+            "date": "21 May, 2017",
+            "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+            "user-name": "by Noelle Garza"
+        },
+
+        "card-3": {
+            "title": "The history and architecture of England",
+            "date": "21 May, 2018",
+            "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+            "user-name": "by Noelle Garza"
+        },
+
+        "card-4": {
+            "title": "The history and architecture of England",
+            "date": "21 May, 2019",
+            "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+            "user-name": "by Noelle Garza"
+        },
+        "btn-text": "MORE TOURS"
+    },
+
+    "pagination": {
+        "next": "next post",
+        "prev": "prev post"
+    },
+
+
+    "about": {
+        "title": "About Us",
+        "text": {
+            "part1": "ASIAMICE is the leading MICE travel company in Uzbekistan with loyal domestic and local itineraries. The company provides partners with a trip to all countries of the world. It is our responsibility to declare that we are top-class travel craftsmen.",
+            "part2": "ASIAMICE, through experience and practice, has made a huge contribution to the travel industry.",
+            "part3": "For the employees of this company, the comfortable journey of their customers means more than just getting from point A to point B.",
+            "part4": "This is a process of fascinating acquaintance with the unique sights and cultures of peoples of different countries, which will be remembered by traveling clients for many years.",
+            "part5": "Whether it's your family or a group of people close to you, we know how to make your trip the tour of your dreams, so that you and your family will remember all the highlights and share your impressions with your friends.",
+            "part6": "We strive to deliver on all promises made to our customers, therefore, and when we talk about complex pricing with no hidden costs, that's what we mean.",
+            "part7": "Plus, our Kitchen Roving Home will serve you delicious food that you will remember forever during your journey.",
+            "part8": "The main goal of ASIAMICE is based on the positive experience of working with current and future customers.",
+            "part9": "In addition to our extensive experience and impeccable record of safety, our company has been repeatedly praised for its attention to detail when planning tailor-made itineraries. Our team of trained tour coordinators and instructors have years of experience in organizing them and take pride in their accomplishments to lead and develop an enduring love of nature, offering our clients the opportunity to experience new countries and cultures of their peoples.",
+            "part10": "Welcome to the journey with ASIAMICE"
+        }
+    },
+    
+    "feedback-title": "Feedbacks",
+    "footer": {
+        "articles":{
+            "title": "Address",
+            "address": "Uzbekistan, Samarkand,",
+            "address2": "st. Amir Temur"
+        },
+
+        "about-us": {
+            "title": "Important links",
+            "address": "Adress: Samarkand, st. Amir Temur, 224",
+            "phone": "Phone: +998338915553",
+            "gmail": "Email: asiamiceuz@gmail.com",
+            "working-hours": "Working hours: Mon-Fri from 09:00 to 20:00"
+        },
+
+        "newsletter": {
+            "title": "Contact us",
+            "text": "Get individual tour, travel tips, photo guides and more!"
+        },
+        "form": {
+            "input": "Name",
+            "input2": "Phone or Email",
+            "btn": "send"
+        },
+
+        "callMe": "CALL NOW",
+        "followUs": "Follow Us",
+        "supported": "Supported Payment Gateways"
+    },
+
+    "banner": {
+        "title": {
+            "part1": "welcome",
+            "part2": "to world",
+            "part3": "of possibilities"
+        }
+    },
+
+    "tours": {
+        "title": "Profitable tours from all tour operators",
+        "form": {
+            "input1": "From",
+            "input2": "To",
+            "input3": "The calendar",
+            "btn": "Search"
+        }
+    },
+
+    "contacts": {
+        "title": "OUR LOCATIONS",
+        "registrate": "Uzbekistan - REGISTERED OFFICE",
+        "adres": {
+            "part1": "Adress: Uzbekistan, Samarkand,",
+            "part2": "st. Amir Temur, 224"
+        },
+        "contact-form": {
+            "title": "GET IN TOUCH WITH US",
+            "description": "Call or submit our online form to request an estimate or for general questions about traveling with global holidays and our services.",
+            "email": "Email address",
+            "name": "Name",
+            "contact": "Contact number",
+            "subject": "Subject",
+            "comment": "Comment",
+            "submit": "SEND NOW"
+        }
+    },
+
+    "choose": {
+        "title": "WHY CHOOSE ASIAMICE?",
+        "discription": "Our clients are our first priority. We are passionate about helping you get best travel experience across the world.",
+        
+        "bonded": {
+            "title": "Bonded",
+            "text": "We are registered with IATA, this allows us to meet standards within the tourism Industry. Also, your money is always safe with us."
+        },
+
+        "discounts": {
+            "title": "Group Discounts",
+            "text": "We offer best discounts when you travel with your group. We guarantee that our prices offer you a great value for your money."
+        },
+
+        "finest": {
+            "title": "Finest Tour Manager And Guides",
+            "text": "We provide the most experienced and professional tour managers. Our tour guides are local and experts, who will make each destination come alive"
+        },
+
+        "departure": {
+            "title": "Confirm Departure Dates",
+            "text": "We guarantee our European group departures. We make sure that there are no last moment cancellations of tours."
+        },
+
+        "handpicked": {
+            "title": "Handpicked Hotels",
+            "text": "We handpick finest hotels for all our worldwide destinations with a minimum 4 to 5 star ratings providing most relaxing tour experience."
+        },
+
+        "luxurious": {
+            "title": "Luxurious Transportation",
+            "text": "We care for your comfort. Our coaches are loaded with state of art equipment including air conditioning, TV, DVD and WC facilities to make your journey as enjoyable as possible."
+        }   
+    },
+
+    "faq": {
+            "title": "FAQ",
+            "sections": [
+                    {
+                        "title": "GENERAL QUESTIONS",
+                        "questions": [
+                            {
+                                "id": 1,
+                                "question": "How to book",
+                                "answer": "1) Chat now and provide details\n2) Book online and pay via PayPal (4.1% surcharge applies) or via bank wire transfer for FREE\n3)  Book online and mail the check to our office\n4) Stop by our office to make the payment"
+                            },
+                            {
+                                "id": 2,
+                                "question": "Currency Convertor",
+                                "answer": "http://www.xe.com"
+                            },
+                            {
+                                "id": 3,
+                                "question": "World clock",
+                                "answer": "https://www.timeanddate.com/worldclock"
+                            }
+                        ]
+                    },
+                    
+                    {
+                        "title": "FLIGHTS / CRUISE / RAIL / COACH FAQ",
+                        "questions": [
+                            {
+                                "id": 4,
+                                "question": "What is an E-Ticket ?",
+                                "answer": "E-Ticket is a paperless electronic travel document with respective Flight, Cruise or Train Travel Details which allows you to proceed with your travel. For Check-in to your flight you have to exchange the E-Ticket for your boarding pass at the Airport Counter. For Railways (Train Segments in Europe) use the printout of the document directly as a ticket to travel. For cruises submit the print outs of your e-documents to the officer at the port of embarkation while boarding the cruise ship."
+                            },
+                            {
+                                "id": 5,
+                                "question": "How are the Seats Allocated? Can I get seat as per my Preference?",
+                                "answer": "Seats are usually auto-allocated as per availability on first come first served basis on all modes of transport. In cases of Airlines & Cruises, we can assist you to get a seat of your choice at an extra price (depending on the airline/cruise), but subject to seat availability. In cases of Trains (Rail Europe) seats are auto-allocated as per availability and selected fare and cannot be selected as per preference. In cases of coaches seats are available on first come first serve basis."
+                            },
+                            {
+                                "id": 6,
+                                "question": "What is the baggage allowance / limitations ?",
+                                "answer": "Flights: All domestic flights allow 23 kgs of Checked luggage & 7 kgs for cabin baggage. However, it can be further checked with the airline directly. For international flights the baggage limit varies from airline to airline so it is best advised to check directly with the airline or our sales team."
+                            },
+                            {
+                                "id": 7,
+                                "question": "Cruises",
+                                "answer": "As allowed by the cruise liner. It differs for passengers as per cabin class selected. Trains (Rail Europe): Two large items and one small hand baggage is allowed. Usually there is no weight restriction for regional trains in Europe but it is advised to travel light. Only Eurostar & Renfe AVE trains have certain restrictions as per dimensions. Baggage allowances can be checked on the train operator’s website.\nCoaches: As per the space provided in the coach. Its best advised to travel light."
+                            },
+                            {
+                                "id": 8,
+                                "question": "What can be done if I miss my Flight / Train (Rail Europe) ?",
+                                "answer": "In case you miss your Flight, cancellation charges will be levied as applicable. If you are at the airport, you can approach the airline ticketing counter and book a new ticket for the next flight by paying difference in fare. However, it is strictly subject to seat availability. In case of Train (Rail Europe), it depends on the after sales policy of your train tickets. Most of the tickets are non-refundable once the train departs. If after sales policy of your ticket support exchange then by paying difference in fare, you may be issued a new ticket, but subject to seat availability on the next train. If you are issued an open ticket with reservation for your travel segment, you can travel on the next train by purchasing only the seat reservation, but subject to seat availability on your requested train."
+                            }
+                        ]
+                    },
+
+                    {
+                        "title": "HOTELS FAQ",
+                        "questions": [
+                            {
+                                "id": 9,
+                                "question": "What is a twin sharing room ?",
+                                "answer": "2 Adults sharing 1 room with 2 separate single beds."
+                            },
+                            {
+                                "id": 10,
+                                "question": "What is a double room ?",
+                                "answer": "2 Adults sharing 1 room with 1 double (Queen Size / King Size bed)."
+                            },
+                            {
+                                "id": 11,
+                                "question": "What is a triple room ?",
+                                "answer": "3 Adults sharing 1 room with 1 double (Queen Size) bed with an extra bed / rolling bed for the third person."
+                            },
+                            {
+                                "id": 12,
+                                "question": "What is the age slab for a child price?",
+                                "answer": "Any child below 12 years qualifies for a child price."
+                            },
+                            {
+                                "id": 13,
+                                "question": "What is the check-in time at the hotels ?",
+                                "answer": "The hotel check-in time begins after 14:00 / 15-00 hrs local area time. However, we advise you to reconfirm with the specific hotel for accurate time. It may differ from hotel to hotel in rare cases."
+                            },
+                            {
+                                "id": 14,
+                                "question": "Is hotel booking modifications possible?",
+                                "answer": "Hotel booking modifications are highly non-advisable as the booking has to be cancelled and a new one has to be made instead. This attract cancellation fee as applicable. Some hotels do support room upgrade facility at the time of check-ins but are only subject to availability."
+                            },                            
+                            {
+                                "id": 15,
+                                "question": "Is identity proof required at hotels during check-in ? If yes, then which ones are valid ?",
+                                "answer": "Yes, Identity proof is mandatory. Indian Nationals for hotels within India by presenting the Aadhar Card, Driving License, Voter’s ID or Passport. For Foreign Nationals in hotels within India need to show their Passport. For Indian Nationals in hotels abroad (outside India) need to show their passports."
+                            }
+                        ]
+                    },
+
+
+                    {
+                        "title": "PAYMENTS / CANCELLATIONS / REFUNDS FAQ",
+                        "questions": [
+                            {
+                                "id": 16,
+                                "question": "What are payment modes available at Axar Tours Global Holidays LLC ?",
+                                "answer": "We at Axar Tours Global Holidays LLC accept Payments in Money order, Cash, Checks, Credit cards & Debit Cards or Bank Wire Transfer."
+                            },
+                            {
+                                "id": 17,
+                                "question": "What are the cancellation charges ?",
+                                "answer": "The cancellation charges vary for each product. It depends on the cancellation / after sales policy of the product booked. However, applicable penalty / fees and administrative charges are non-refundable. For details we request you to get in touch with the respective sales staff."
+                            },
+                            {
+                                "id": 18,
+                                "question": "What is the time taken to process a Refund ?",
+                                "answer": "3 Adults sharing 1 room with 1 double (Queen Size) bed with an extra bed / rolling bed for the third person."
+                            },
+                            {
+                                "id": 19,
+                                "question": "Is there a deadline for cancellation / apply for refund ?",
+                                "answer": "Yes. Some products have due date or deadline for cancellation / apply for refunds, while some a non-refundable by default. The refundable products have a time limit mentioned in cancellation or after sales policy. Please check and confirm for the details with the sales staff prior to booking. Past the due date refunds cancellation / refunds cannot be carried out."
+                            },
+                            {
+                                "id": 20,
+                                "question": "How do I cancel a booking or request a refund ?",
+                                "answer": "Get in touch with our sales staff prior to cancellation / refund due date and request for booking cancellation / refund. Our sales staff will do the further needful. Please make sure to clarify all the cancellation / after sales policy of the booking while making / confirming your booking.\nAll services such as Airline seats / Hotel accommodation / ground transportation for group tours are pre-blocked and pre-paid well in advance. We are liable to pay penalties to all our suppliers / vendors if these services are released within the below mentioned time frame. If circumstances make you cancel the Tour, the cancellation must be intimated to us in writing. Such Cancellation will attract the following cancellation charges:"
+                            }                          
+                        ]
+                    },
+
+
+                    {
+                        "title": "VISA PROCESS FAQ",
+                        "questions": [
+                            {
+                                "id": 21,
+                                "question": "What is a VISA ?",
+                                "answer": "VISA (Visitor Intending to Stay Abroad) is a travel document which allows a person to enter and leave the region for which it is issued under prescribed terms and conditions. The VISA application allows the country / region to understand the applicant’s reason of VISA application, financial condition, circumstances and details regarding the previous visits to the country / region if any. The traveler / visitor may be or required to undergo pass security and / or physical health check upon arrival at airport / border."
+                            },
+                            {
+                                "id": 22,
+                                "question": "Is VISA required for international travel ?",
+                                "answer": "For most of the countries around the globe, Yes. You might need a valid VISA in order to enter or visit a country internationally prior to departing from USA or country of residence. Very few countries provide VISA on arrival for US Citizens. VISA requirements and procurement norms differ country to country as per the favorable travel agreements with countries around the world with your country of residence / issued passport."
+                            },
+                            {
+                                "id": 23,
+                                "question": "What is the time duration for processing VISA ?",
+                                "answer": "It depends on the country you are visiting. Some consulates issue in a day, some may take weeks and some may take months depending on your nature and duration of visit to the country / region."
+                            },
+                            {
+                                "id": 24,
+                                "question": "Is there a fee for VISA ? If yes, how much ?",
+                                "answer": "It depends on the travel agreement signed within countries. In few cases VISA fee may be waived off but in most cases you have to pay for the VISA. VISA fee differs from country to country you wish to visit and as per the type and duration of VISA applied for. You can check it on the website of VISA issuers like VFS or of the respective consulate."
+                            },
+                            {
+                                "id": 25,
+                                "question": "Does an International Holiday booked with ASIAMICE guarantee a VISA ?",
+                                "answer": "No. ASIAMICE is just a facilitator for VISA application process and do not provide assurance or guarantee of granting of the VISA. ASIAMICEs only provides assistance in applying for visas while the decision to grant VISA solely lies up to the respective Consulate / Embassy of the country you wish to visit. Consulate/ Embassy can reject the VISA application under any circumstances. VISA application fees are non-refundable."
+                            },
+                            {
+                                "id": 26,
+                                "question": "What happens if my VISA gets rejected?",
+                                "answer": "The Tour price is refunded after deducting the VISA application Fees and cancellation and administrative charges as applicable. VISA application fees are non-refundable."
+                            },
+                            {
+                                "id": 27,
+                                "question": "Can the VISA extension rule be applied?",
+                                "answer": "Yes. But it will lead to an additional cost in case of VISA fee and Insurance Cost which will have to be borne by the traveler. In most cases the visa may need to be applied again."
+                            }                            
+                        ]
+                    },
+
+                    
+
+                    {
+                        "title": "MISCELLANEOUS FAQ",
+                        "questions": [
+                            {
+                                "id": 28,
+                                "question": "Does Axar Tours Global Holidays llc have its own cook in Group Holiday Packages ?",
+                                "answer": "No. Meals are arranged in Indian restaurants at nearby locations or kitchen caravan on tour."
+                            },
+                            {
+                                "id": 29,
+                                "question": "What meals are included in the Group Holiday Packages ?",
+                                "answer": "Buffet Breakfast at the hotel, Indian or Local Lunch at a Restaurant or a Packed meal ( in rare situation) & Indian Dinner at a Restaurant /or in Hotel are included."
+                            },
+                            {
+                                "id": 30,
+                                "question": "What kind of meals are available on Group Holiday Packages ?",
+                                "answer": "In Group Holiday Packages pre-set Indian meals are provided for Vegetarian & Non-Vegetarian diet. For Local & Jain & Swaminarayan meals request should be made during booking are available."
+                            },
+                            {
+                                "id": 31,
+                                "question": "Are porter services included ?",
+                                "answer": "Porter services are not included in any packages. However, they can be arranged at an additional charge. However it is important that a prior intimation or request is provided to the sales staff while confirming the booking in order to make necessary arrangements."
+                            },
+                            {
+                                "id": 32,
+                                "question": "How many Tour Managers accompany in Group Holiday Tours ?",
+                                "answer": "In Group Holiday Tours One Tour Manager accompanies the group or local representatives / guides at local destinations and sightseeing."
+                            },
+                            {
+                                "id": 33,
+                                "question": "Which languages do the Tour Managers of Group Holidays converse in ?",
+                                "answer": "We do have multi-linguistic tour managers. But primarily converse in English & Hindi. However, as per the requirement of passengers for a specified group we can arrange Multi-Linguistic Tour Managers who are fluent in most of the Indian languages."
+                            },
+                            {
+                                "id": 34,
+                                "question": "How safe are my belongings and what guarantees my personal safety ?",
+                                "answer": "Its best advised that you do not carry valuable items while traveling. To guarantee your personal safety and that of the personal belongings it is mandatory that you follow the guidelines set / instructed by Tour Managers or Local Representatives / Guides at every step of your journey / sales staff and study the details mentioned in the briefing sheet."
+                            }                            
+                        ]
+                    },
+
+                    {
+                        "title": "TRAVEL INSURANCE",
+                        "questions": [
+                            {
+                                "id": 35,
+                                "question": "What is Travel Insurance and what does it include?",
+                                "answer": "Travel insurance is back-up or cover for various kinds of risks you may encounter during your trip overseas or within India. It includes financial cover in case of death, accident, medical expense incurred during the trip, loss / delay of checked baggage, repatriation, passport loss and third part liability. However, the terms and conditions of the travel insurance need to be carefully studied."
+                            },
+                            {
+                                "id": 36,
+                                "question": "Do I need Travel Insurance?",
+                                "answer": "It is always advisable to have Travel Insurance even for Indian holidays For International Travel it is mandatory. It is a good practice to get Travel Insurance prior to commencing your journey to protect oneself from any eventuality as governed by the Travel Insurance Company."
+                            },
+                            {
+                                "id": 37,
+                                "question": "How much does Travel Insurance Cost & how much is the premium?",
+                                "answer": "The cost of travel Insurance depend on various factors such as age, duration of the journey, country or places you wish to visit and the benefits included in your insurance plan. Premium is charged as per pre-determined slabs you are categorized into as laid out by Travel Insurance Company."
+                            },
+                            {
+                                "id": 38,
+                                "question": "Is Travel Insurance included in Holiday Packages?",
+                                "answer": "In case of Group Holidays Packages, Travel Insurance is included in the quote provided till age of 60 years. For persons above 60 and those with pre-existing ailments the charges will increase. Travel Insurance is not included in Customized or Themed Holidays. However, it is always advised to add Travel Insurance to your personalized packages prior to commencing your journey."
+                            }
+                        ]
+                    },
+
+
+                    {
+                        "title": "DOWNLOAD FAQ",
+                        "questions": [
+                            {
+                                "id": 39,
+                                "question": "Where do I find Credit card authorization form ?",
+                                "answer": "Click Here to download the form."
+                            },
+                            {
+                                "id": 40,
+                                "question": "What meals are included in the Group Holiday Packages ?",
+                                "answer": "Buffet Breakfast at the hotel, Indian or Local Lunch at a Restaurant or a Packed meal ( in rare situation) & Indian Dinner at a Restaurant /or in Hotel are included."
+                            },
+                            {
+                                "id": 41,
+                                "question": "What kind of meals are available on Group Holiday Packages ?",
+                                "answer": "In Group Holiday Packages pre-set Indian meals are provided for Vegetarian & Non-Vegetarian diet. For Local & Jain & Swaminarayan meals request should be made during booking are available."
+                            },
+                            {
+                                "id": 42,
+                                "question": "Are porter services included ?",
+                                "answer": "Porter services are not included in any packages. However, they can be arranged at an additional charge. However it is important that a prior intimation or request is provided to the sales staff while confirming the booking in order to make necessary arrangements."
+                            },
+                            {
+                                "id": 43,
+                                "question": "How many Tour Managers accompany in Group Holiday Tours ?",
+                                "answer": "In Group Holiday Tours One Tour Manager accompanies the group or local representatives / guides at local destinations and sightseeing."
+                            },
+                            {
+                                "id": 44,
+                                "question": "Which languages do the Tour Managers of Group Holidays converse in ?",
+                                "answer": "We do have multi-linguistic tour managers. But primarily converse in English & Hindi. However, as per the requirement of passengers for a specified group we can arrange Multi-Linguistic Tour Managers who are fluent in most of the Indian languages."
+                            },
+                            {
+                                "id": 45,
+                                "question": "How safe are my belongings and what guarantees my personal safety ?",
+                                "answer": "Its best advised that you do not carry valuable items while traveling. To guarantee your personal safety and that of the personal belongings it is mandatory that you follow the guidelines set / instructed by Tour Managers or Local Representatives / Guides at every step of your journey / sales staff and study the details mentioned in the briefing sheet."
+                            }
+                        ]
+                    }
+                ]
+    },
+
+
+    "mice": {
+        "title": "MICE IN UZBEKISTAN",
+        "meeting": {
+            "title": "MEETINGS",
+            "text": "Business meetings could be anything from director-only board annual general meetings to a training seminar. Basically, any group of people gathering in a common location, for a common reason, is a type of meeting. Other examples include: strategic planning, shareholders meeting, management meetings, etc."
+        },
+
+        "incentives": {
+            "title": "INCENTIVES",
+            "text": "Incentives are a way to motivate or reward associates, dealers or any employee of a company, according to their previous performance or as a way to build teamwork. As the context of travel varies, they can count with advisory of local convention bureaus of the targeted destinations. According to a survey done by The Incentive Search Foundation, Incentive Travel is a fundamental corporate culture builder. Resort retreats, annual summits and familiarization tours or even a day trip are common examples. Therefore, both the hospitality industry, as well as the tourism industry benefit directly from this kind of event."
+        },
+
+        "conferencing": {
+            "title": "CONFERENCING",
+            "text": "Corporate conferences usually gather a group of people by profession or personal interest in a specific field, looking for information exchange and discussion about a certain topic. These conventions require complex planning and itinerary organization well in advance. They differ from meetings mainly because of scale. A corporate or government conference / convention can have hundreds of participatory meetings happening simultaneously inside it as part of a program. Annual gatherings of industry associations and organizations are a big component of this sector."
+        },
+
+        "exhibitions": {
+            "title": "EXHIBITIONS/EVENTS",
+            "text": "Exhibitions are also known for their extensive planning. They usually are highly produced trade shows that bring products to their audience. Financial, Pharma, Beauty, Insurance, High-tech and other lead industries populate the largest exhibition centers with senior executives. They could be either businesses selling to other businesses (B2B) or straight to the final consumer (B2C). Larger fairs, despite having a clear target, might combine both modalities in the mix."
+        }
+    },
+
+    "mice-page": {
+        "title": "MICE (Meeting, Incentive, Conference, and Events Tourism)",
+        "text":{
+            "part1": "ASIAMICE offers a specialized niche for group tourism. Our travel agency deals with planning, booking and organizing conferences, seminars and other events.",
+            "part2": "The MICE industry is growing rapidly around the world, and we are growing with it. MICE travel includes several components. Our agents will help you get a full range of travel and conference services for large and small groups, for more or less lengthy events.",
+            "part3": "ASIAMICE, having been in the MICE market for a long time, cooperates with many businesses and their staff, including corporate meeting planners, meeting and conference departments in hotels, convention centers or cruise ships, food and beverage managers, and logistics firms. private tour operators and transfer companies, incentive houses, including professional trade.",
+            "part4": "Organizations, tourism boards, travel trade associations and travel sales professionals all place us at the forefront of Uzbekistan's MICE professionals.",
+            "part5": "MICE is a powerful tool to use to reward corporate employees for their work. It is a motivation to successfully fulfill their future tasks, allowing corporations to combine business with pleasure, making work more fun and inspiring."
+        },
+
+        "business": {
+            "title": "Business Travel",
+            "text": {
+                "part1": "Business Travel or corporate (business) tourism in the modern world is of great importance in business development.",
+                "part2": "This concept implies the organization of various conferences, seminars, trainings, incentive trips, corporate events and is divided into corporate travel industry and MICE (meeting industry). It is their correct organization that raises the ratings of companies.",
+                "part3": "Business Travel is the most profitable type of tourism for the country in which such an event takes place, therefore it is beneficial for each country to organize international forums, because they will bring considerable income to the state."
+            }
+        }
+    },
+    "username": "Username",
+    "password": "Password",
+    "comfirm-password": "Comfirm Password",
+    "agree": "I agree with the rules of the site",
+    "mice-form": {
+        "title": "WANT TO MICE WITH ASIAMICE ?",
+        "email": "Email address",
+        "name": "Name",
+        "contact": "Contact number",
+        "city": "City",
+        "company": "Company name",
+        "submit": "SUBMIT",
+        "fullName": "FullName",
+        "numPeople": "number of people",
+        "purpose": "purpose of the visit"
+    },
+
+    "memo": {
+        "title": "Tourist memo",
+        "covid19": "COVID-19: Memo for Traveling in Uzbekistan during a Pandemic ",
+        "top-text": {
+            "part1": "Uzbekistan is a land of warmth and light nurtured by the sun. Here, more than 300 days a year, you can enjoy the clear sunny sky during the day and the velvet starry canvas at night. In Uzbekistan, the warmth of the sun is intertwined with the warmth and hospitality of human souls, which is why every cell of the body feels a powerful synergy of kindness and comfort. Much has been said about the hospitality of the local people, but you can only understand who a Guest is in an Uzbek house while sitting at a dastarkhan laid out in your honor.",
+            "part2": "Nature has generously endowed Uzbekistan with an amazing variety of landscapes: the hot sands of the Kyzyl Kum mountains coexist with lakes of stunning freshness and purity; lifeless steppes alternate with green oases, where it is so pleasant to drink the honey of the sweetest melon in the shade of vines; here, from the noisy metropolitan road, gray ridges of the Tien Shan are visible in the distant haze, and the breeze blowing down from the mountains brings the pristine freshness and mountain coolness to Tashkent. Fertile valleys with blossoming orchards, huge fields of white gold - cotton, thousands of mountain sais, merging into the powerful channels of the Amu Darya and Syr Darya, ancient cities, where from high minarets you can see both snowy peaks and lifeless sands - all this is Uzbekistan. During its long history, the Uzbek land has seen a lot: the rise and fall of the powerful empires of Alexander the Great, Genghis Khan and Amir Temur, destructive wars, the rise of scientific thought and the construction of masterpieces of architecture. Uzbekistan has repeatedly become a crossroads of worlds, where different cultures and civilizations met: thousands of rich caravans of the Great Silk Road passed here, which connected the Middle East and the Mediterranean with India and China. New cities flourished along the life-giving arteries of caravan roads, the national cuisine absorbed the best recipes of overseas dishes, the secrets of which were willingly shared by passing merchants. Today Uzbekistan is a modern democratic republic with excellent service and developed tourist infrastructure. Here, everyone will be able to afford an affordable vacation - whether it be the five-star comfort of first-class hotels or a humble national home, an exciting jeep adventure or hiking trip in the mountains, a languid beach vacation or an active tour of ancient cities with their countless attractions. We are waiting for you on the hospitable Asian land! Useful information for traveling in Uzbekistan:"
+        },
+
+        "generalinformation": {
+            "title": "General information about Uzbekistan.",
+            "text": "Location. Uzbekistan is located in the very heart of Central Asia, between the Syr Darya and Amu Darya rivers. It shares borders with Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan and Turkmenistan. Almost two thirds of the country are steppes and deserts, the remaining third are mountains, valleys and oases."
+        },
+
+        "area": {
+            "title": "Area:",
+            "text": "447,900 sq. km. The Republic of Karakalpakstan is part of Uzbekistan, which occupies about 37% of the territory of Uzbekistan. The length of the country's territory from north to south is 930 km, from west to east - 1425 km."
+        },
+
+        "population": {
+            "title": "Population:",
+            "text": "more than 29 million people (2011 data). Of these, 37% are urban residents and 63% are rural residents. Population density: 60 people / km². Composition: 80% Uzbeks, 5.5% Russians, 5% Tajiks, 5% Kazakhs, 2% Karakalpaks, 1.5% Tatars."
+        },
+
+        "politicalstructure": {
+            "title": "Political structure.",
+            "text": " Since 1991, Uzbekistan has been a sovereign legal democratic republic. Part of the CIS. The system of state power of the Republic of Uzbekistan is based on the principle of separation of powers into legislative, executive and judicial. Administrative-territorial division: 12 regions, the sovereign republic of Karakalpakstan."
+        },
+
+        "capital": {
+            "title": "Capital:",
+            "text": "the city of Tashkent with a population of over 2.5 million. Tashkent is the only city in all of Central Asia and Kazakhstan where there is a subway. State language: Uzbek. About 80% of the population speaks Russian to varying degrees."
+        },
+
+        "currencyunit": {
+            "title": "Currency unit:",
+            "text": "sum. There are exchange offices in the Republic where you can exchange currency at the current rate. Religions. Sunni Islam is professed by about 88% of the population, Christianity - 9%, other religions - 3%. In general, the population adheres to tolerance and mutual respect. Standard time zone: UTC / GMT +5 hours. Electricity: 220 V AC, 50 Hz; standard double plug socket."
+        },
+
+        "climateinuzbekistan": {
+            "title": "Climate in Uzbekistan.",
+            "text": "The climate of Uzbekistan is conducive to travel around this country throughout the year. Still, it is believed that the best time to visit Uzbekistan: - from March to early July; - from September to November. The climate of Uzbekistan is sharply continental. The average temperature in winter is from +10 to - 8 C. Spring is beautiful and fleeting, after the Eastern New Year - the holiday of spring and the renewal of Navruz - the temperature rises rapidly, and already at the end of April you can safely wear summer clothes (the temperature in April is +20 to + 25 C). Summer in Uzbekistan is long, dry and hot, the temperature ranges from +35 to +45 C. The peak of the heat falls on the period from June 25 to August 5 - the so-called chilla, when hot dry winds blow, precipitation is absent, the temperature in the shade reaches + 40-45 C, and in some regions of the country it is even higher. After the chilli, the heat subsides, and the most fertile time comes, when it is still hot enough during the day, but with the onset of evening and night, the long-awaited coolness comes. Autumn in Uzbekistan is velvety, warm and generous: bazaar stalls are full of ripe fruits, vegetables and melons. Until the end of November, the temperature may not drop below +10 C."
+        },
+
+        "dress": {
+            "title": "How to dress in Uzbekistan.",
+            "text": "Depending on the season, clothes for traveling in Uzbekistan may be different, but they must invariably be comfortable, familiar and correspond to the temperature regime indicated above. In warm weather, you should give preference to things made of cotton and other natural fabrics. T-shirts and loose shorts will be very appropriate for both men and women. In hot weather, it will be advisable to carry sunglasses, a light hat in the form of a hat or cap, and sunscreen at all times. Do not forget about comfortable shoes, because most of the excursion programs are walking. It is recommended to take shoes not only comfortable, but also practical, with a strong sole and without high female heels, because excursions can also take place along a rocky or dusty road. In early spring (March - early April) and late autumn (October - November), it will not be superfluous to take a windbreaker, jacket and thin sweater with you. In winter, the temperature can drop to minus 3-8 ° C, so the best option is a raincoat or a warm jacket and a hat. If you are also going to visit the mountains or the desert, you should take into account that the differences between day and night temperatures there can be significant, in addition, in the mountains it is usually much cooler than in cities. Of course, you need to remember about respect for local traditions, culture and religion. Therefore, when visiting religious places of worship, be sure to have a scarf or shawl with you to cover your head and shoulders. Please also note that it is customary to take off your shoes when visiting houses of worship in Uzbekistan. You should not dress provocatively or wear too bright jewelry, so as not to cause misunderstandings on the part of residents of remote regions of Uzbekistan."
+        },
+
+        "kitchen": {
+            "title": "Uzbek cuisine.",
+            "text": "Uzbek national cuisine is very rich and varied: dozens of types of pilaf, manty, samsa, shashlik, lagman, khanum, mampar, chuchvara, oriental sweets and other Uzbek dishes can be tasted in almost any cafe and restaurant in the republic. The most common dishes of Uzbek cuisine are: Pilaf - a dish made of rice, butter, meat, carrots; every Uzbek city has its own unique recipe for preparing this delicious national Asian dish; Shish kebab is a meat dish that is cooked over an open fire; differs in a variety of options and cooking methods; Samsa - triangular puff pastry pies stuffed with meat, potatoes or pumpkin, baked in a special oven - tandoor;  Shurpa - soup made from fresh lamb and vegetables; Nahud - Central Asian large peas stewed with lamb; Manty is a steamed dish made from unleavened dough stuffed with chopped meat or pumpkin, fat tail fat, onions with traditional Uzbek spices - zira and black pepper."
+        },
+
+        "visadocument": {
+            "title": "Visa, documents and security.",
+            "text": "Entry to Uzbekistan must be carried out with a foreign passport. The list of required documents for obtaining a visa to Uzbekistan may differ significantly depending on your citizenship. With the CIS countries, except for Tajikistan and Turkmenistan, Uzbekistan has signed bilateral agreements on visa-free regime. Those arriving in the Republic of Uzbekistan should draw up a customs declaration (in 2 copies), where a foreign tourist must declare all valuable things that he brings into the country (jewelry, currency, equipment) and keep the second copy with the seal of the border guards until the next crossing of the Uzbek border. Those arriving in the Republic of Uzbekistan should draw up a customs declaration (in 2 copies), where a foreign tourist must declare all valuable things that he brings into the country (jewelry, currency, equipment) and keep the second copy with the seal of the border guards until the next crossing of the Uzbek border. You can register at the place of temporary stay in Uzbekistan at the hotel or at the territorial OVIR, if you plan to stay with friends. The registration certificate should be kept with you at all times until departure - when leaving Uzbekistan, passport control employees may be asked to present it. Do not leave personal belongings unattended (at the airport, train station, in other crowded places). If the hotel does not have a safe, keep documents, valuables, bank cards and money with you. If the health features require taking medications, it is advisable to bring the required amount of medications with you or consult with our tour operators in advance regarding the possibility of buying the necessary medications on the territory of Uzbekistan."            
+        },
+
+        "customs": {
+            "title": "Customs regulations of Uzbekistan.",
+            "text": "To enter Uzbekistan, you must have a passport with you, and fill out 2 declarations at the customs post, one of which must be kept by you until the end of the trip. Customs inspection is, first of all, filling out a declaration, in which it is necessary to indicate how much money and in what currency you are bringing into the country, whether you have weapons, psychotropic substances and other things with you that you must inform about in advance. Be sure to fill out this declaration in duplicate. After verification, one copy of the customs declaration always remains at the customs post, and the second copy must be kept until the end of the trip - it will be needed when you leave the country. The fact is that when leaving Uzbekistan, you fill out the declaration again. The customs officer on the way back may require the first declaration. If it is not on hand, how will you prove, for example, that you are not exporting more money than you brought in? The import of foreign currency in cash to Uzbekistan is not limited. When importing more than 5,000 US dollars (or the equivalent in another foreign currency), the customs authorities issue a certificate of the TS-28 form. When importing foreign currency in cash in excess of $ 10,000, a fee of 1 percent will be charged. The export of foreign currency is allowed within the amount brought into the Republic in accordance with the customs declaration."
+        },
+
+        "currencyofuzbekistan": {
+            "title": "Currency of Uzbekistan.",
+            "text": "The national currency of Uzbekistan is Uzbek sum (UZS). In circulation there are banknotes in denominations of 100, 200, 500, 1,000 soums, as well as coins - 25, 50, 100 and 500 soums. Almost all bills are of the same size and differ only in color. Monuments of culture and art of Uzbekistan are depicted on the banknotes. You can exchange currency in the branches of the National Bank, specialized exchange offices and in some hotels. Currency exchange with individuals is punishable by law. And is it worth exposing yourself, firstly, to the risk of becoming a victim of fraud and, secondly, to earn serious problems if law enforcement officials detain you, as they say, red-handed. It should be noted that the US dollar remains the most popular currency in Central Asia. However, the bills should not be wrinkled, have any damage, bends, otherwise it will be extremely difficult to exchange them. Credit cards Master Card and Visa in Uzbekistan can be used mainly only in the capital."
+        },
+
+        "photography": {
+            "title": "Photographing in Uzbekistan.",
+            "text": "Uzbekistan is rich in picturesque places that just ask to be captured by a camera. However, you should be aware that photography in Uzbekistan is prohibited at the airport, at military facilities, in some religious places of the Itashkent metro. Shooting in many historical and architectural monuments is paid."
+        },
+
+        "tipping": {
+            "title": "Tipping in Uzbekistan.",
+            "text": "For a long time Uzbekistan has been famous for the hospitality and cordiality of its inhabitants. Any traveler who comes to the Uzbek land will immediately feel that in the sincere desire of the hosts to receive the guest in the best possible way, there is not a bit of tension or self-interest. The fact that hospitality is the norm for the inhabitants of Uzbekistan is no secret to anyone, although sometimes it causes considerable surprise among tourists. In response to such a kind and sincere attitude, guests often try to somehow thank the hosts. At such a reciprocal gesture from the guest, most Uzbeks shrug their shoulders in bewilderment and even take offense: “Why ?! After all, we wholeheartedly!  But in Uzbekistan, as in any country where there is tourism, the concept of service workers is also present. And indeed, how to do without such important tourism professions as guides, tour guides, translators, drivers, waiters and others - all these people directly depend on the quality of tourism programs, and they all show care and attention to tourists. In relation to the service staff, a gesture of gratitude from the guest will be quite appropriate. Therefore, if you really liked how you were served in a restaurant, how you were taken from one city to another, how they conducted an excursion, how they translated, making the boundaries between languages ​​transparent, or how they helped, willingly and willingly trying to solve any questions and problems, - do not hesitate to thank you for your work. Of course, you are not obliged to do this, but if your desire comes from the heart, you will be correctly understood and accepted with gratitude the reward, the amount of which, again, depends only on you."
+        },
+
+        "souvenirs": {
+            "title": "Souvenirs of Uzbekistan.",
+            "text": "The unique art of folk crafts is developed in Uzbekistan everywhere, many-sided and peculiar: ceramics, woodcarving, ganch (plaster carving), making knives, chasing, carpet weaving, silk and khan-atlas, weaving from willow twigs, painting on leather and dried pumpkin , embroidery with gold thread and beads, suzane, national clothes (chapans, skullcaps, lozm - women's national leotards) and shoes (pointed slippers, mahse - soft leather boots with fur), household items (kurpachi, beshik - baby cradles, chests for storage of dowry, dishes) and much, much more. You can freely purchase souvenir products at bazaars, when visiting excursion sites, in specialized stores and souvenir departments of supermarkets, as well as in small shops that can be found in any city. Almost the entire range of souvenirs can be exported from the country, but there are certain nuances. For example, there is a restriction on the export of carpets - you can ask your guide about it before making a purchase. It is forbidden, as, indeed, in any other country, to export antiques."
+        },
+
+        "nationalholidays": {
+            "title": "National holidays in Uzbekistan.",
+            "text": "Public Holidays: January 1 - New Year; March 8 - International Women's Day; March 21 - Navruz (Eastern New Year); May 9 - Day of Remembrance and Honor; September 1 - Independence Day; October 1 - Teacher and Mentor Day; December 8 - Constitution Day."
+        },
+
+        "relHoliday": {
+            "title": "Religious holidays with changing dates: Ramazan Khait, Kurban Khait."
+        },
+
+        "statesymbols": {
+            "title": "State symbols of Uzbekistan: flag, coat of arms and anthem.",
+            "text": "The flag of Uzbekistan consists of three horizontal equal stripes of rich blue, white and green colors. The white stripe is edged at the top and bottom with red lines. The upper blue stripe on the left shows a white crescent and 12 white stars. The blue color of the flag symbolizes sky and water - the two main sources of life. In addition, blue is the original color of the Turkic people, to which the Uzbeks belong. The white stripe of the flag is a symbol of peace, traditional for the population of the republic, a wish of a good journey (ok yul), a desire for moral purity of thoughts and actions. Green is the color of nature, new life (Navruz) and fertility. And besides, green is the color of Islam. Red stripes flanking the middle (white) stripe above and below emphasize the vitality of every living organism. In addition, the people consider these two strips to be blood vessels that feed the land of Uzbekistan - the Amu Darya and Syrdarya rivers. The young crescent moon on the flag of Uzbekistan is seen as a symbol of the newly born independent Muslim republic. The 12 stars on the flag were considered by all peoples as a symbol of a cloudless sky. The veneration of 12 stars reminds of the solar year starting from Navruz - the time of the onset of spring. The 12-year solar cycle in Uzbekistan is called Muchal. In the minds of Eastern philosophers, the number 12 is a sign of inclusiveness and perfection. It is assumed that the world in which we live consists of 4 elements: earth, air, water and fire, which manifest themselves on three levels: on earth, in the sky and between heaven and earth. Coat of arms of Uzbekistan. In the center is the bird Humo with outstretched wings - in Uzbek mythology, a symbol of happiness and love for freedom. In the upper part of the coat of arms there is an octahedron, symbolizing the establishment of the republic, inside - a crescent moon with a star. For example, to call Tashkent from abroad, you need to dial: + 998 71 ... (seven-digit city phone number), and to call Tashkent from another city in Uzbekistan: 8-371 ... (seven-digit city phone number)."
+        },
+
+        "mobileoperators": {
+            "title": "Mobile operators in Uzbekistan:",
+            "text": {
+                "ucell": "Ucell GSM 900/1800 standard International code: + 998 93/94 www.ucell.uz",
+                "beeline": "Beeline Uzbekistan GSM standard International code: +998 90/91 www.beeline.uz",
+                "uzmobile": "UzMobile CDMA-450 standard International code: +998 95 www.uzcdma.uz",
+                "perfectum": "Perfectum Mobile CDMA 2000 standard International code: +998 98 www.cdma.uz"
+            }
+        },
+
+        "embassies": {
+            "text1": "Foreign embassies and consulates in Uzbekistan. There are 50 embassies and consulates of various countries of the world in Tashkent.",
+            "text2": "Embassies and consulates of Uzbekistan abroad. Uzbekistan has more than 30 embassies and 10 consulates in Asian and European countries, as well as in the United States."
+        }
+    },
+
+    "hotels": {
+        "title": "Hotels",
+        "cities": "Cities",
+        "address": "Address",
+        "to_the_airport": "To the airport",
+        "to_the_station": "To the railway station",
+        "city_center": "To the city center",
+        "metro": "To the nearest metro station",
+        "attractions": "Nearby attractions",
+        "fund": "Rooms Fund",
+        "services": "Services",
+        "booking_rules": "Booking rules",
+        "check-in_time": "Check-in time",
+        "check-out_time": "Check-out time",
+        "accommodation_for_children": "Accommodation for children",
+        "pets": "Accommodation of pets",
+        "404": "Hotels not found"
+    },
+
+    "tour": {
+        "mainInfo": "Main Infomation",
+        "itinerary": "Itinerary",
+        "reviews": "Reviews",
+        "days": "Days",
+        "day": "Day",
+        "nights": "Nights",
+        "services": "Services included in the tour price",
+        "services_notIncluded": "Services not included in the tour price",
+        "notes": "Notes",
+        "price": "From",
+        "bonus1": "Book 10 Weeks in advance and get $125 OFF per adult $95 OFF per child",
+        "bonus2": "Book 08 Weeks in advance and get $90 OFF per adult $67 OFF per",
+        "book": "Book now",
+        "call": " Call now"
+    },
+
+
+    "uslugi": "Licensed services"
+
+}

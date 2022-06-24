@@ -1,0 +1,88 @@
+.holiday {
+	margin-bottom: 50px;
+	padding: 80px 0;
+
+	background-color: #F2FBFF;
+}
+
+.holiday__header {
+	text-align: center;
+}
+
+.title {
+	text-transform: uppercase;
+
+	color: #333;
+	text-shadow: 0 0 0 rgb(0 0 0 / 30%);
+
+	font-family: 'Poppins', sans-serif;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.discription {
+	letter-spacing: 1.5px;
+
+	color: #333;
+
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+}
+
+.holiday__card {
+	display: flex;
+	align-items: center;
+	flex: 1;
+	flex-direction: column;
+	justify-content: center;
+
+	height: 320px;
+}
+
+.icon {
+	width: 90px;
+	height: 90px;
+	margin-bottom: 15px;
+}
+
+.holiday__text {
+	max-width: 300px;
+
+	text-align: center;
+}
+
+.holiday__text_description {
+	margin: 0;
+	padding: 0;
+}
+
+.icon:hover {
+	animation-name: animationIcon;
+	animation-duration: 0.3s;
+	animation-fill-mode: forwards;
+
+	animation-timing-function: linear;
+}
+
+@keyframes animationIcon {
+	0% {
+		transform: translateX(0);
+		transform: rotateZ(0deg);
+	}
+
+	50% {
+		transform: translateX(10px);
+		transform: rotateZ(10deg);
+	}
+
+	75% {
+		transform: translateX(-10px);
+		transform: rotateZ(-10deg);
+	}
+
+	100% {
+		transform: translateX(0);
+		transform: rotateZ(0deg);
+	}
+}

@@ -1,0 +1,137 @@
+.header {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("/main.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(2px);
+}
+
+.header_mice {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("/mice-page.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(3px);
+}
+
+.header_tours {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("/tours-page.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(3px);
+}
+
+.header_tour {
+	display: none;
+}
+
+.heder_about {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("/about-page.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(3px);
+}
+
+.header_contact {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("/contact-page.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(3px);
+}
+
+.header_faq {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("https://easy-insurance.ca/wp-content/uploads/2020/06/FAQ.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(3px);
+}
+
+.header_memo {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("/memo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(3px);
+}
+
+.header_blog {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("/blog.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(3px);
+} 
+
+.header_hotels {
+	position: relative;
+
+	width: 100%;
+	height: 480px;
+
+	background-image: url("/blog.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	backdrop-filter: blur(3px);
+} 
+
+
+@media screen and (max-width: 768px) {
+	.header_contact, 
+	.header_faq, 
+	.header_memo, 
+	.header_mice, 
+	.header_tour, 
+	.header_tours, 
+	.heder_about {
+		background-size: contain;
+		height: 200px;
+	}
+	.header {
+		height: 200px;
+	}
+}

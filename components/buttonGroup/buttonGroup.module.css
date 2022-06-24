@@ -1,0 +1,25 @@
+.btn {
+    width: 100%;
+    background-color: lightgray;
+    cursor: pointer;
+    height: 40px;
+    padding-left: 15px;
+    line-height: 40px;
+    border-bottom: 1px solid darkgray;
+    color: #797979;
+    font-weight: 500;
+}
+
+.btn:hover {
+    color: #434343;
+}
+
+.btn:active,
+.btn:focus {
+    background-color: #fff;
+    color: #000;
+}
+
+.btn:last-child {
+    border-bottom: none;
+}

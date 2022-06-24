@@ -1,0 +1,63 @@
+
+
+.sidebar {
+	padding: 15px 0;
+	display: flex;
+    width: 100%;
+    gap: 25px;
+	flex-wrap: wrap;
+	transition: all 0.5s ease;
+}
+
+
+.show {
+	display: none;
+}
+
+.btn_filter {
+
+	width: 150px;
+	height: 30px;
+}
+
+/* @media screen and  (min-width: 1440px) {
+	.sidebar {
+		max-width: 1314px;
+
+	}
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1439px) {
+	.sidebar {
+		max-width: 1130px;
+
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+	.sidebar {
+		max-width: 960px;
+
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.sidebar {
+		max-width: 715px;
+	}
+}
+
+@media screen and (min-width: 500px) and (max-width: 768px) {
+	.sidebar {
+		max-width: 540px;
+	}
+} */
+
+
+@media screen and (max-width: 500px) {
+	.sidebar {
+		max-width: 100%;
+		margin: 0;
+
+	}
+}

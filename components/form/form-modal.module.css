@@ -1,0 +1,100 @@
+.welldone {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	background-color: rgba(0, 0, 0, 0.7);
+	background-blend-mode: darken;
+	color: rgb(36, 252, 36);
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 50px;
+	font-weight: 700;
+  }
+  
+  
+  
+  .form {
+	display: flex;
+	column-gap: 15px;
+	row-gap: 10px;
+	margin: 5px;
+	max-height: 500px;
+  }
+  
+  .form > div {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	gap: 15px;
+  }
+  
+  .textArea {
+	min-height: 80px !important;
+  }
+  
+  .btn {
+	width: 300px;
+	height: 50px;
+  
+	text-transform: uppercase;
+  
+	color: #fff;
+	border: none;
+	border-radius: 50px;
+	background-color: #f58b13;
+  
+	font-weight: 700;
+  }
+  
+  .btn:hover,
+  .btn:focus {
+	background-color: #ea7c00;
+  }
+  
+  .formBtn {
+	width: 100%;
+	height: 55px;
+	padding: 5px 0;
+  
+	letter-spacing: 2px;
+  
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	background-color: #f58b13;
+  
+	font-size: 20px;
+	font-weight: 500;
+  }
+  
+  .inputDate {
+	width: 100%;
+	height: 48px;
+	padding: 10px;
+	border-radius: 4px;
+	border: 1px solid lightgray;
+	background-color: #fff;
+	color: #000;
+  }
+  
+  .inputDate {
+	outline: none;
+  }
+  
+  @media screen and (max-width: 960px) {
+	.form {
+	  flex-direction: column;
+	}
+  }
+  
+  @media screen and (max-width: 600px) {
+	.form {
+	  flex-direction: column;
+	}
+  }
+  

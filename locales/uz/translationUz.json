@@ -1,0 +1,686 @@
+{
+    "links": {
+        "tours": "Sayohatlar",
+        "contacts": "Kontaktlar",
+        "about": "Biz haqimizda",
+        "mice": "M.I.C.E.",
+        "memo": "Sayyohlar uchun eslatma",
+        "faq": "FAQ",
+        "hotels": "Mehmonhona",
+        "blog": "Blog",
+        "payment": "To'lov"
+    },
+
+    "login": "Kirish",
+    "register": "Ro'yxatdan o'tish",
+    "stars": "Mehmonxonadagi yulduzlar",
+
+    "afterInput": {
+        "title": "O'zingiz yoqtirgan narsani qidiring:",
+        "discription": "restoran, muzey, mehmonxona, diqqatga sazovor joylar"
+    },
+
+    "banner": {
+        "title": {
+            "part1": "Imkoniyatlar",
+            "part2": "dunyosiga ",
+            "part3": "xush kelibsiz"
+        }
+    },
+
+    "tours": {
+        "title": "Barcha turoperatorlarning foydali ekskursiyalari",
+        "form": {
+            "input1": "Qayerdan",
+            "input2": "Qayerga",
+            "input3": "Qachon",
+            "btn": "Izlash"
+        }
+    },
+
+    "blog": {
+        "category": "turkumlar",
+        "categoryText": "Turkumlar yo'q",
+        "title": {
+            "t1": "Bizning sayohatlarimiz"
+        },
+        "card-1": {
+            "title": "Exploring the food in the heart of the London",
+            "date": "25 Aug, 2016",
+            "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+            "user-name": "by Felecia Wilson"
+        },
+
+        "card-2": {
+            "title": "The history and architecture of England",
+            "date": "21 May, 2017",
+            "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+            "user-name": "by Noelle Garza"
+        },
+
+        "card-3": {
+            "title": "The history and architecture of England",
+            "date": "21 May, 2018",
+            "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+            "user-name": "by Noelle Garza"
+        },
+
+        "card-4": {
+            "title": "The history and architecture of England",
+            "date": "21 May, 2019",
+            "text": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+            "user-name": "by Noelle Garza"
+        },
+        "btn-text": "KO'PROQ TURLLAR"
+    },
+
+    "pagination": {
+        "next": "keyingi post",
+        "prev": "oldingi post"
+    },
+
+
+    "username": "Foydalanuvchi Ismi",
+    "password": "Parol",
+    "comfirm-password": "Parolni qaytaring",
+    "agree": "Men sayt qoidalariga qo'shilaman",
+    "about": {
+        "title": "Biz haqimizda",
+        "text": {
+            "part1": "ASIAMICE - bu mahalliy va mahalliy marshrutlarga ega bo'lgan O'zbekistondagi etakchi MICE sayyohlik kompaniyasi. Kompaniya sheriklariga dunyoning barcha mamlakatlariga sayohatni taqdim etadi. Bizning yuqori darajadagi sayyohlik hunarmandimiz ekanligimizni e'lon qilish bizning mas'uliyatimizdir.",
+            "part2": "ASIAMICE tajriba va amaliyot orqali sayyohlik sanoatiga ulkan hissa qo'shdi.",
+            "part3": "Ushbu kompaniya xodimlari uchun o'z mijozlarining qulay sayohati A nuqtadan B nuqtaga etib borishdan ko'proq narsani anglatadi.",
+            "part4": "Bu turli mamlakatlar xalqlarining noyob diqqatga sazovor joylari va madaniyati bilan ajoyib tanishish jarayoni bo'lib, bu sayohatchilar uzoq yillar davomida eslab qolishadi.",
+            "part5": "Sizning oilangiz bo'ladimi yoki sizga yaqin bo'lgan odamlar guruhi bo'ladimi, biz sizning sayohatingizni qanday orzu qilgan sayohatga aylantirishni bilamiz, shunda siz va oilangiz barcha muhim voqealarni eslab qolishingiz va o'z taassurotlaringizni do'stlaringiz bilan o'rtoqlashishingiz mumkin.",
+            "part6": "Biz mijozlarimizga berilgan barcha va'dalarni bajarishga intilamiz, shuning uchun maxfiy xarajatlarsiz murakkab narxlar haqida gapirganda, biz shuni nazarda tutamiz.",
+            "part7": "Bundan tashqari, bizning Kitchen Roving Home sizning sayohatingiz davomida abadiy eslab turadigan mazali taomlarni taqdim etadi.",
+            "part8": "ASIAMICE-ning asosiy maqsadi hozirgi va kelajakdagi mijozlar bilan ishlashning ijobiy tajribasiga asoslangan.",
+            "part9": "Bizning katta tajribamiz va xavfsizlikning beg'ubor rekordidan tashqari, bizning kompaniyamiz bir necha bor maxsus marshrutlarni rejalashtirishda tafsilotlarga e'tibor qaratgani uchun maqtovga sazovor bo'ldi. Bizning o'qitilgan ekskursiya koordinatorlari va o'qituvchilarimiz ularni tashkil qilish bo'yicha ko'p yillik tajribaga ega va tabiatga bo'lgan muhabbatni rivojlantirish va rivojlantirish bo'yicha o'z yutuqlari bilan faxrlanadilar, mijozlarimizga yangi mamlakatlar va o'z xalqlarining madaniyati bilan tanishish imkoniyatini beradi.",
+            "part10": "ASIAMICE bilan sayohatga xush kelibsiz"
+        }
+    },
+    
+    "feedback-title": "Fikir va mulohaza",
+    "footer": {
+        "articles":{
+            "title": "Manzil",
+            "address": "O`zbekiston, Samarqand,",
+            "address2": "Amir Temur, kuchasi"
+        },
+        "about-us": {
+            "title": "Muhum sahifalar",
+            "address": "Manzil: Samarkand, st. Amir Temur, 224",
+            "phone": "Telefon: +998338915553",
+            "gmail": "Email: asiamiceuz@gmail.com",
+            "working-hours": "Ish vaqti: Dushanba-Juma from 09:00 to 20:00"
+        },
+        "newsletter": {
+            "title": "Biz bilan bog'laning",
+            "text": "Individual sayohatlar, sayohatlar bo'yicha maslahatlar, fotosuratlar va boshqa narsalar haqida yangiliklarni oling!"
+        },
+        "form": {
+            "input": "Ism",
+            "input2": "Telefon raqam yoki E-pochta",
+            "btn": "yuborish"
+        },
+
+        "callMe": "HOZIR qo'ng'iroq qiling",
+        "followUs": "Bizni kuzatib boring",
+        "supported": "Qabul qilinadigan to'lov tizimlar"
+
+    },
+
+    "contacts": {
+        "title": "Bizning ma`lumotlarimiz",
+        "registrate": "O'zbekiston - Ro'yxatdan o'tgan ofis",
+        "adres": {
+            "part1": "Manzil: O'zbekiston, Samarqand,",
+            "part2": "st. Amir Temur, 224 yil"
+        },
+        "contact-form": {
+            "title": "BIZ bilan aloqada bo'ling",
+            "description": "Smetani so'rash uchun yoki global bayramlar va bizning xizmatlarimiz bilan sayohat qilish haqida umumiy savollar uchun onlayn shaklimizga qo'ng'iroq qiling yoki yuboring.",
+            "email": "E-pochta manzili",
+            "name": "Ism",
+            "contact": "Aloqa raqami",
+            "subject": "Mavzu",
+            "comment": "Izoh",
+            "submit": "YUBORISH"
+        }
+    },
+
+    "choose": {
+        "title": "NEGA AYNAN ASIAMICE?",
+        "discription": "Bizning mijozlarimiz bizning ustuvor vazifamiz. Biz sizga dunyodagi eng yaxshi sayohat tajribasini olishga yordam berishga sodiqmiz.",
+        
+        "bonded": {
+            "title": "Bog'langan",
+            "text": "Biz IATA-da ro'yxatdan o'tganmiz, bu sayyohlik sohasi standartlariga javob berishga imkon beradi. Bundan tashqari, sizning pulingiz biz bilan doimo xavfsizdir."
+        },
+
+        "discounts": {
+            "title": "Guruhdagi chegirmalar",
+            "text": "Guruhingiz bilan sayohat qilganingizda eng yaxshi chegirmalarni taqdim etamiz. Bizning narxlarimiz sizning pulingiz uchun katta qiymat taklif qilishiga kafolat beramiz."
+        },
+
+        "finest": {
+            "title": "Eng yaxshi tur menejeri va gidlar",
+            "text": "Bizda eng tajribali va professional tur menejerlar ishlaydi. Bizning qo'llanmalarimiz mahalliy va har bir manzilni hayotga olib keladigan mutaxassislardir."
+        },
+
+        "departure": {
+            "title": "Chiqish kunlarini tasdiqlash",
+            "text": "Biz Evropadan guruhga sayohat qilishni kafolatlaymiz. Oxirgi daqiqalarni bekor qilish yo'qligiga ishonch hosil qilamiz."
+        },
+
+        "handpicked": {
+            "title": "Saralangan mehmonxonalar",
+            "text": "Biz eng qulay sayohat tajribasini ta'minlash uchun dunyodagi barcha yo'nalishlar uchun eng yaxshi mehmonxonalarni 4 dan 5 yulduzgacha baholaymiz."
+        },
+        
+        "luxurious": {
+            "title": "Hashamatli transport",
+            "text": "Biz sizning qulayligingiz haqida qayg'uramiz. Bizning avtobuslar sizning sayohatingizni iloji boricha yoqimli qilish uchun konditsioner, televizor, DVD va hojatxonani o'z ichiga olgan zamonaviy uskunalar bilan jihozlangan."
+        }   
+    },
+
+
+    "faq": {
+        "title": "FAQ",
+        "sections": [
+                {
+                    "title": "GENERAL QUESTIONS",
+                    "questions": [
+                        {
+                            "id": 1,
+                            "question": "How to book",
+                            "answer": "1) Chat now and provide details\n 2) Book online and pay via PayPal (4.1% surcharge applies) or via bank wire transfer for FREE\n3)  Book online and mail the check to our office\n4) Stop by our office to make the payment"
+                        },
+                        {
+                            "id": 2,
+                            "question": "Currency Convertor",
+                            "answer": "http://www.xe.com"
+                        },
+                        {
+                            "id": 3,
+                            "question": "World clock",
+                            "answer": "https://www.timeanddate.com/worldclock"
+                        }
+                    ]
+                },
+                
+                {
+                    "title": "FLIGHTS / CRUISE / RAIL / COACH FAQ",
+                    "questions": [
+                        {
+                            "id": 4,
+                            "question": "What is an E-Ticket ?",
+                            "answer": "E-Ticket is a paperless electronic travel document with respective Flight, Cruise or Train Travel Details which allows you to proceed with your travel. For Check-in to your flight you have to exchange the E-Ticket for your boarding pass at the Airport Counter. For Railways (Train Segments in Europe) use the printout of the document directly as a ticket to travel. For cruises submit the print outs of your e-documents to the officer at the port of embarkation while boarding the cruise ship."
+                        },
+                        {
+                            "id": 5,
+                            "question": "How are the Seats Allocated? Can I get seat as per my Preference?",
+                            "answer": "Seats are usually auto-allocated as per availability on first come first served basis on all modes of transport. In cases of Airlines & Cruises, we can assist you to get a seat of your choice at an extra price (depending on the airline/cruise), but subject to seat availability. In cases of Trains (Rail Europe) seats are auto-allocated as per availability and selected fare and cannot be selected as per preference. In cases of coaches seats are available on first come first serve basis."
+                        },
+                        {
+                            "id": 6,
+                            "question": "What is the baggage allowance / limitations ?",
+                            "answer": "Flights: All domestic flights allow 23 kgs of Checked luggage & 7 kgs for cabin baggage. However, it can be further checked with the airline directly. For international flights the baggage limit varies from airline to airline so it is best advised to check directly with the airline or our sales team."
+                        },
+                        {
+                            "id": 7,
+                            "question": "Cruises",
+                            "answer": "As allowed by the cruise liner. It differs for passengers as per cabin class selected. Trains (Rail Europe): Two large items and one small hand baggage is allowed. Usually there is no weight restriction for regional trains in Europe but it is advised to travel light. Only Eurostar & Renfe AVE trains have certain restrictions as per dimensions. Baggage allowances can be checked on the train operator’s website.\nCoaches: As per the space provided in the coach. Its best advised to travel light."
+                        },
+                        {
+                            "id": 8,
+                            "question": "What can be done if I miss my Flight / Train (Rail Europe) ?",
+                            "answer": "In case you miss your Flight, cancellation charges will be levied as applicable. If you are at the airport, you can approach the airline ticketing counter and book a new ticket for the next flight by paying difference in fare. However, it is strictly subject to seat availability. In case of Train (Rail Europe), it depends on the after sales policy of your train tickets. Most of the tickets are non-refundable once the train departs. If after sales policy of your ticket support exchange then by paying difference in fare, you may be issued a new ticket, but subject to seat availability on the next train. If you are issued an open ticket with reservation for your travel segment, you can travel on the next train by purchasing only the seat reservation, but subject to seat availability on your requested train."
+                        }
+                    ]
+                },
+
+                {
+                    "title": "HOTELS FAQ",
+                    "questions": [
+                        {
+                            "id": 9,
+                            "question": "What is a twin sharing room ?",
+                            "answer": "2 Adults sharing 1 room with 2 separate single beds."
+                        },
+                        {
+                            "id": 10,
+                            "question": "What is a double room ?",
+                            "answer": "2 Adults sharing 1 room with 1 double (Queen Size / King Size bed)."
+                        },
+                        {
+                            "id": 11,
+                            "question": "What is a triple room ?",
+                            "answer": "3 Adults sharing 1 room with 1 double (Queen Size) bed with an extra bed / rolling bed for the third person."
+                        },
+                        {
+                            "id": 12,
+                            "question": "What is the age slab for a child price?",
+                            "answer": "Any child below 12 years qualifies for a child price."
+                        },
+                        {
+                            "id": 13,
+                            "question": "What is the check-in time at the hotels ?",
+                            "answer": "The hotel check-in time begins after 14:00 / 15-00 hrs local area time. However, we advise you to reconfirm with the specific hotel for accurate time. It may differ from hotel to hotel in rare cases."
+                        },
+                        {
+                            "id": 14,
+                            "question": "Is hotel booking modifications possible?",
+                            "answer": "Hotel booking modifications are highly non-advisable as the booking has to be cancelled and a new one has to be made instead. This attract cancellation fee as applicable. Some hotels do support room upgrade facility at the time of check-ins but are only subject to availability."
+                        },                            
+                        {
+                            "id": 15,
+                            "question": "Is identity proof required at hotels during check-in ? If yes, then which ones are valid ?",
+                            "answer": "Yes, Identity proof is mandatory. Indian Nationals for hotels within India by presenting the Aadhar Card, Driving License, Voter’s ID or Passport. For Foreign Nationals in hotels within India need to show their Passport. For Indian Nationals in hotels abroad (outside India) need to show their passports."
+                        }
+                    ]
+                },
+
+
+                {
+                    "title": "PAYMENTS / CANCELLATIONS / REFUNDS FAQ",
+                    "questions": [
+                        {
+                            "id": 16,
+                            "question": "What are payment modes available at Axar Tours Global Holidays LLC ?",
+                            "answer": "We at Axar Tours Global Holidays LLC accept Payments in Money order, Cash, Checks, Credit cards & Debit Cards or Bank Wire Transfer."
+                        },
+                        {
+                            "id": 17,
+                            "question": "What are the cancellation charges ?",
+                            "answer": "The cancellation charges vary for each product. It depends on the cancellation / after sales policy of the product booked. However, applicable penalty / fees and administrative charges are non-refundable. For details we request you to get in touch with the respective sales staff."
+                        },
+                        {
+                            "id": 18,
+                            "question": "What is the time taken to process a Refund ?",
+                            "answer": "3 Adults sharing 1 room with 1 double (Queen Size) bed with an extra bed / rolling bed for the third person."
+                        },
+                        {
+                            "id": 19,
+                            "question": "Is there a deadline for cancellation / apply for refund ?",
+                            "answer": "Yes. Some products have due date or deadline for cancellation / apply for refunds, while some a non-refundable by default. The refundable products have a time limit mentioned in cancellation or after sales policy. Please check and confirm for the details with the sales staff prior to booking. Past the due date refunds cancellation / refunds cannot be carried out."
+                        },
+                        {
+                            "id": 20,
+                            "question": "How do I cancel a booking or request a refund ?",
+                            "answer": "Get in touch with our sales staff prior to cancellation / refund due date and request for booking cancellation / refund. Our sales staff will do the further needful. Please make sure to clarify all the cancellation / after sales policy of the booking while making / confirming your booking.\nAll services such as Airline seats / Hotel accommodation / ground transportation for group tours are pre-blocked and pre-paid well in advance. We are liable to pay penalties to all our suppliers / vendors if these services are released within the below mentioned time frame. If circumstances make you cancel the Tour, the cancellation must be intimated to us in writing. Such Cancellation will attract the following cancellation charges:"
+                        }                          
+                    ]
+                },
+
+
+                {
+                    "title": "VISA PROCESS FAQ",
+                    "questions": [
+                        {
+                            "id": 21,
+                            "question": "What is a VISA ?",
+                            "answer": "VISA (Visitor Intending to Stay Abroad) is a travel document which allows a person to enter and leave the region for which it is issued under prescribed terms and conditions. The VISA application allows the country / region to understand the applicant’s reason of VISA application, financial condition, circumstances and details regarding the previous visits to the country / region if any. The traveler / visitor may be or required to undergo pass security and / or physical health check upon arrival at airport / border."
+                        },
+                        {
+                            "id": 22,
+                            "question": "Is VISA required for international travel ?",
+                            "answer": "For most of the countries around the globe, Yes. You might need a valid VISA in order to enter or visit a country internationally prior to departing from USA or country of residence. Very few countries provide VISA on arrival for US Citizens. VISA requirements and procurement norms differ country to country as per the favorable travel agreements with countries around the world with your country of residence / issued passport."
+                        },
+                        {
+                            "id": 23,
+                            "question": "What is the time duration for processing VISA ?",
+                            "answer": "It depends on the country you are visiting. Some consulates issue in a day, some may take weeks and some may take months depending on your nature and duration of visit to the country / region."
+                        },
+                        {
+                            "id": 24,
+                            "question": "Is there a fee for VISA ? If yes, how much ?",
+                            "answer": "It depends on the travel agreement signed within countries. In few cases VISA fee may be waived off but in most cases you have to pay for the VISA. VISA fee differs from country to country you wish to visit and as per the type and duration of VISA applied for. You can check it on the website of VISA issuers like VFS or of the respective consulate."
+                        },
+                        {
+                            "id": 25,
+                            "question": "Does an International Holiday booked with Global Holidays guarantee a VISA ?",
+                            "answer": "No. Global Holidays is just a facilitator for VISA application process and do not provide assurance or guarantee of granting of the VISA. Global Holidays only provides assistance in applying for visas while the decision to grant VISA solely lies up to the respective Consulate / Embassy of the country you wish to visit. Consulate/ Embassy can reject the VISA application under any circumstances. VISA application fees are non-refundable."
+                        },
+                        {
+                            "id": 26,
+                            "question": "What happens if my VISA gets rejected?",
+                            "answer": "The Tour price is refunded after deducting the VISA application Fees and cancellation and administrative charges as applicable. VISA application fees are non-refundable."
+                        },
+                        {
+                            "id": 27,
+                            "question": "Can the VISA extension rule be applied?",
+                            "answer": "Yes. But it will lead to an additional cost in case of VISA fee and Insurance Cost which will have to be borne by the traveler. In most cases the visa may need to be applied again."
+                        }                            
+                    ]
+                },
+
+                
+
+                {
+                    "title": "MISCELLANEOUS FAQ",
+                    "questions": [
+                        {
+                            "id": 28,
+                            "question": "Does Axar Tours Global Holidays llc have its own cook in Group Holiday Packages ?",
+                            "answer": "No. Meals are arranged in Indian restaurants at nearby locations or kitchen caravan on tour."
+                        },
+                        {
+                            "id": 29,
+                            "question": "What meals are included in the Group Holiday Packages ?",
+                            "answer": "Buffet Breakfast at the hotel, Indian or Local Lunch at a Restaurant or a Packed meal ( in rare situation) & Indian Dinner at a Restaurant /or in Hotel are included."
+                        },
+                        {
+                            "id": 30,
+                            "question": "What kind of meals are available on Group Holiday Packages ?",
+                            "answer": "In Group Holiday Packages pre-set Indian meals are provided for Vegetarian & Non-Vegetarian diet. For Local & Jain & Swaminarayan meals request should be made during booking are available."
+                        },
+                        {
+                            "id": 31,
+                            "question": "Are porter services included ?",
+                            "answer": "Porter services are not included in any packages. However, they can be arranged at an additional charge. However it is important that a prior intimation or request is provided to the sales staff while confirming the booking in order to make necessary arrangements."
+                        },
+                        {
+                            "id": 32,
+                            "question": "How many Tour Managers accompany in Group Holiday Tours ?",
+                            "answer": "In Group Holiday Tours One Tour Manager accompanies the group or local representatives / guides at local destinations and sightseeing."
+                        },
+                        {
+                            "id": 33,
+                            "question": "Which languages do the Tour Managers of Group Holidays converse in ?",
+                            "answer": "We do have multi-linguistic tour managers. But primarily converse in English & Hindi. However, as per the requirement of passengers for a specified group we can arrange Multi-Linguistic Tour Managers who are fluent in most of the Indian languages."
+                        },
+                        {
+                            "id": 34,
+                            "question": "How safe are my belongings and what guarantees my personal safety ?",
+                            "answer": "Its best advised that you do not carry valuable items while traveling. To guarantee your personal safety and that of the personal belongings it is mandatory that you follow the guidelines set / instructed by Tour Managers or Local Representatives / Guides at every step of your journey / sales staff and study the details mentioned in the briefing sheet."
+                        }                            
+                    ]
+                },
+
+                {
+                    "title": "TRAVEL INSURANCE",
+                    "questions": [
+                        {
+                            "id": 35,
+                            "question": "What is Travel Insurance and what does it include?",
+                            "answer": "Travel insurance is back-up or cover for various kinds of risks you may encounter during your trip overseas or within India. It includes financial cover in case of death, accident, medical expense incurred during the trip, loss / delay of checked baggage, repatriation, passport loss and third part liability. However, the terms and conditions of the travel insurance need to be carefully studied."
+                        },
+                        {
+                            "id": 36,
+                            "question": "Do I need Travel Insurance?",
+                            "answer": "It is always advisable to have Travel Insurance even for Indian holidays For International Travel it is mandatory. It is a good practice to get Travel Insurance prior to commencing your journey to protect oneself from any eventuality as governed by the Travel Insurance Company."
+                        },
+                        {
+                            "id": 37,
+                            "question": "How much does Travel Insurance Cost & how much is the premium?",
+                            "answer": "The cost of travel Insurance depend on various factors such as age, duration of the journey, country or places you wish to visit and the benefits included in your insurance plan. Premium is charged as per pre-determined slabs you are categorized into as laid out by Travel Insurance Company."
+                        },
+                        {
+                            "id": 38,
+                            "question": "Is Travel Insurance included in Holiday Packages?",
+                            "answer": "In case of Group Holidays Packages, Travel Insurance is included in the quote provided till age of 60 years. For persons above 60 and those with pre-existing ailments the charges will increase. Travel Insurance is not included in Customized or Themed Holidays. However, it is always advised to add Travel Insurance to your personalized packages prior to commencing your journey."
+                        }
+                    ]
+                },
+
+
+                {
+                    "title": "DOWNLOAD FAQ",
+                    "questions": [
+                        {
+                            "id": 39,
+                            "question": "Where do I find Credit card authorization form ?",
+                            "answer": "Click Here to download the form."
+                        },
+                        {
+                            "id": 40,
+                            "question": "What meals are included in the Group Holiday Packages ?",
+                            "answer": "Buffet Breakfast at the hotel, Indian or Local Lunch at a Restaurant or a Packed meal ( in rare situation) & Indian Dinner at a Restaurant /or in Hotel are included."
+                        },
+                        {
+                            "id": 41,
+                            "question": "What kind of meals are available on Group Holiday Packages ?",
+                            "answer": "In Group Holiday Packages pre-set Indian meals are provided for Vegetarian & Non-Vegetarian diet. For Local & Jain & Swaminarayan meals request should be made during booking are available."
+                        },
+                        {
+                            "id": 42,
+                            "question": "Are porter services included ?",
+                            "answer": "Porter services are not included in any packages. However, they can be arranged at an additional charge. However it is important that a prior intimation or request is provided to the sales staff while confirming the booking in order to make necessary arrangements."
+                        },
+                        {
+                            "id": 43,
+                            "question": "How many Tour Managers accompany in Group Holiday Tours ?",
+                            "answer": "In Group Holiday Tours One Tour Manager accompanies the group or local representatives / guides at local destinations and sightseeing."
+                        },
+                        {
+                            "id": 44,
+                            "question": "Which languages do the Tour Managers of Group Holidays converse in ?",
+                            "answer": "We do have multi-linguistic tour managers. But primarily converse in English & Hindi. However, as per the requirement of passengers for a specified group we can arrange Multi-Linguistic Tour Managers who are fluent in most of the Indian languages."
+                        },
+                        {
+                            "id": 45,
+                            "question": "How safe are my belongings and what guarantees my personal safety ?",
+                            "answer": "Its best advised that you do not carry valuable items while traveling. To guarantee your personal safety and that of the personal belongings it is mandatory that you follow the guidelines set / instructed by Tour Managers or Local Representatives / Guides at every step of your journey / sales staff and study the details mentioned in the briefing sheet."
+                        }
+                    ]
+                }
+            ]
+},
+
+
+    "mice": {
+        "title": "MICE O'ZBEKISTONDA",
+        "meeting": {
+            "title": "UCHRASHUVLAR",
+            "text": "Ish uchrashuvlari faqat direktorlar kengashining yillik umumiy yig'ilishlaridan tortib o'quv seminariga qadar bo'lishi mumkin. Asosan, umumiy joyga yig'iladigan har qanday odamlar guruhi, umumiy sababga ko'ra, uchrashuvning bir turi hisoblanadi. Boshqa misollarga quyidagilar kiradi: strategik rejalashtirish, aktsiyadorlar yig'ilishi, boshqaruv yig'ilishlari va boshqalar."
+        },
+
+        "incentives": {
+            "title": "RAG`BATLANTIRISH",
+            "text": "Rag'batlantirish - bu sheriklarni, dilerlarni yoki kompaniyaning har qanday xodimini avvalgi ko'rsatkichlariga ko'ra yoki jamoaviy ishni shakllantirish usuli sifatida rag'batlantirish yoki mukofotlash usuli. Sayohatning mazmuni turlicha bo'lganligi sababli, ular maqsadli yo'nalishdagi mahalliy yig'ilish byurolari maslahatiga tayanishi mumkin. Incentive Search Foundation tomonidan o'tkazilgan so'rovga ko'ra, Incentive Travel korporativ madaniyatni yaratuvchisi hisoblanadi. Dam olish maskanlari, yillik sammitlar va tanishish uchun sayohatlar yoki hatto bir kunlik sayohat odatiy misoldir. Shu sababli, mehmondo'stlik sohasi ham, turizm sohasi ham ushbu turdagi tadbirlardan bevosita foyda ko'radi."
+        },
+
+        "conferencing": {
+            "title": "KONFERANSIYALAR",
+            "text": "Korporativ konferentsiyalar, odatda, ma'lum bir mavzu bo'yicha ma'lumot almashish va munozaralarni qidirib topadigan, ma'lum bir sohaga qiziqishi yoki shaxsiy qiziqishi bo'yicha bir guruh odamlarni to'playdi. Ushbu anjumanlar oldindan rejalashtirish va marshrutni tashkillashtirishni talab qiladi. Ular uchrashuvlardan asosan miqyosi jihatidan farq qiladi. Korporativ yoki hukumat konferentsiyasi / anjumanida dastur doirasida bir vaqtning o'zida yuzlab ishtirok etuvchi uchrashuvlar bo'lishi mumkin. Soha birlashmalari va tashkilotlarining yillik yig'ilishlari ushbu sektorning muhim tarkibiy qismidir."
+        },
+
+        "exhibitions": {
+            "title": "KO`RGAZMALAR / TADBIRLAR",
+            "text": "Ko'rgazmalar keng rejalashtirish bilan ham mashhur. Ular odatda o'z mahsulotlarini o'z auditoriyasiga etkazib beradigan yuqori darajada ishlab chiqarilgan savdo ko'rgazmalaridir. Moliyaviy, farmatsevtika, go'zallik, sug'urta, yuqori texnologiyali va boshqa etakchi sanoat korxonalari eng katta ko'rgazma markazlarida yuqori lavozimli rahbarlar joylashgan. Ular boshqa korxonalarga sotadigan (B2B) yoki to'g'ridan-to'g'ri oxirgi iste'molchiga (B2C) sotadigan korxonalar bo'lishi mumkin. Kattaroq yarmarkalar, aniq maqsadga ega bo'lishiga qaramay, ikkala uslubni ham birlashtirishi mumkin."
+        }
+    },
+
+
+    "mice-page": {
+        "title": "MICE (uchrashuv, rag'batlantirish, konferentsiya va tadbirlar turizmi)",
+        "text":{
+            "part1": "ASIAMICE guruhli turizm uchun ixtisoslashgan joyni taklif etadi. Bizning sayyohlik agentligimiz konferentsiyalar, seminarlar va boshqa tadbirlarni rejalashtirish, bron qilish va tashkil qilish bilan shug'ullanadi.",
+            "part2": "MICE sanoati butun dunyoda tez sur'atlar bilan o'sib bormoqda va biz u bilan birga rivojlanmoqdamiz. MICE sayohati bir nechta tarkibiy qismlarni o'z ichiga oladi. Bizning agentlarimiz sizga katta yoki kichik guruhlar uchun, ko'p yoki kamroq uzoq muddatli tadbirlar uchun sayohat va konferentsiya xizmatlarining to'liq spektrini olishga yordam beradi.",
+            "part3": "ASIAMICE uzoq vaqtdan beri MICE sichqonlari bozorida bo'lib, ko'plab korxonalar va ularning xodimlari, shu jumladan korporativ uchrashuvlarni rejalashtiruvchilar, mehmonxonalar, konvensiya markazlari yoki kruiz kemalaridagi yig'ilish va konferentsiya bo'limlari, oziq-ovqat va ichimliklar menejerlari va logistika firmalari bilan hamkorlik qiladi. xususiy turoperatorlar va transfer kompaniyalari, rag'batlantiruvchi uylar, shu jumladan professional savdo.",
+            "part4": "Tashkilotlar, sayyohlik kengashlari, sayyohlik savdo uyushmalari va sayohatchilarni sotish bo'yicha mutaxassislar bizni O'zbekistondagi MICE mutaxassislari orasida birinchi o'rinda turadi.",
+            "part5": "MICE - bu korporativ xodimlarni ishi uchun mukofotlash uchun foydalanadigan kuchli vosita. Bu kelajakdagi vazifalarini muvaffaqiyatli bajarishga turtki bo'lib, korporatsiyalarga biznesni zavq bilan birlashtirishga, ishni yanada qiziqarli va ilhomlantiruvchi qilishga imkon beradi."
+        },
+
+        "business": {
+            "title": "Biznesga sayohat",
+            "text": {
+                "part1": "Zamonaviy dunyoda Business Travel yoki korporativ (ishbilarmonlik) turizm biznesni rivojlantirishda katta ahamiyatga ega.",
+                "part2": "Ushbu kontseptsiya turli konferentsiyalar, seminarlar, treninglar, rag'batlantiruvchi sayohatlar, korporativ tadbirlarni tashkil etishni nazarda tutadi va korporativ sayyohlik sohasi va MICE (yig'ilish sanoati) ga bo'linadi. Kompaniyalar reytingini ko'taradigan ularning to'g'ri tashkiloti.",
+                "part3": "Business Travel bu kabi voqea sodir bo'lgan mamlakat uchun eng foydali turizm turidir, shuning uchun har bir mamlakat uchun xalqaro forumlarni tashkil qilish foydalidir, chunki ular davlatga katta daromad keltiradi."
+            }
+        }
+    },
+
+    "mice-form": {
+        "title": "ASIAMICE BILAN MICE TURIZM XOXLAYSIZMI?",
+        "email": "E-pochta manzili",
+        "name": "Ism",
+        "contact": "Aloqa raqami",
+        "city": "Shahar",
+        "company": "Kopmaniya nomi",
+        "submit": "YUBORISH",
+        "fullName": "To'liq ismi sharif",
+        "numPeople": "odamlar soni",
+        "purpose": "tashrif maqsadi"
+    },
+
+    "memo": {
+        "title": "Turistik eslatma",
+        "covid19": "COVID-19: Pandemiya paytida O'zbekistonga sayohat qilish to'g'risida eslatma",
+        "top-text": {
+            "part1": "O'zbekiston quyosh bilan oziqlangan iliqlik va yorug'lik mamlakati. Bu erda yiliga 300 kundan ortiq kun davomida toza quyoshli osmondan, kechasi esa baxmal yulduzli tuvaldan bahramand bo'lishingiz mumkin. O'zbekistonda quyosh harorati inson qalbining iliqligi va mehmondo'stligi bilan chambarchas bog'liq, shuning uchun ham tananing har bir hujayrasi kuchli mehr va qulaylik sinergiyasini his qiladi. Mahalliy xalqning mehmondo'stligi haqida ko'p aytilgan, lekin siz o'zingizning sharafingizga yopilgan dasturxonda o'tirganingizda o'zbek xonadonida mehmon kimligini tushunishingiz mumkin.",
+            "part2": "Tabiat saxovat bilan O'zbekistonga turli xil landshaftlarni berdi: Qizilqum tog'larining issiq qumlari ajoyib tazelik va poklik ko'llari bilan birga yashaydi; jonsiz dashtlar yashil vohalar bilan almashib turadi, bu erda uzum soyasida eng shirin qovunning asalini ichish juda yoqimli; bu erda shovqinli metropoliten yo'lidan Tyan-Shanning kulrang tizmalari uzoq tumanlarda ko'rinib turibdi va tog'lardan esayotgan shabada Toshkentga beg'ubor tetiklik va tog 'salqinligini keltiradi. Gulli bog'lari bo'lgan serhosil vodiylar, ulkan oq oltin dalalari - paxta, Amudaryo va Sirdaryoning qudratli kanallariga qo'shilib ketayotgan minglab tog 'sayyohlari, ham qorli cho'qqilarni, ham baland minoralardan jonsiz qumlarni ko'rish mumkin bo'lgan qadimiy shaharlar - bularning barchasi O'zbekiston. Uzoq tarix davomida o'zbek zamini ko'p narsalarni ko'rdi: Buyuk Iskandar, Chingizxon va Amir Temur qudratli imperiyalarining ko'tarilishi va qulashi, vayronkor urushlar, ilmiy tafakkurning yuksalishi va me'morchilik durdonalari qurilishi. O'zbekiston bir necha marotaba olamlarning chorrahasiga aylandi, u erda turli madaniyatlar va tsivilizatsiyalar to'qnash keldi: Buyuk Ipak yo'lining minglab boy karvonlari bu erdan o'tdi, bu Yaqin Sharq va O'rta er dengizini Hindiston va Xitoy bilan bog'ladi. Karvon yo'llarining hayot baxsh etuvchi tomirlari bo'ylab yangi shaharlar gullab-yashnadi, milliy oshxonada chet el taomlarining eng yaxshi retseptlari singib ketdi, ularning sirlari o'tib ketgan savdogarlar tomonidan tayyorlanib berildi. Bugungi kunda O'zbekiston zamonaviy xizmat ko'rsatadigan va rivojlangan sayyohlik infratuzilmasiga ega respublikadir. Bu erda har bir kishi arzon dam olish imkoniyatiga ega bo'ladi - xoh u birinchi darajali mehmonxonalarning besh yulduzli farovonligi yoki kamtarona milliy uy bo'lsin, hayajonli jip sarguzashtlari yoki tog'larda piyoda sayohati, bemalol plyajdagi ta'til yoki faol sayohat. son-sanoqsiz diqqatga sazovor joylari bilan qadimiy shaharlarning. Sizni mehmondo'st Osiyo zaminida kutamiz! O'zbekistonda sayohat qilish uchun foydali ma'lumotlar:"
+        },
+
+        "generalinformation": {
+            "title": "O'zbekiston haqida umumiy ma'lumotlar.",
+            "text": "Manzil. O'zbekiston Markaziy Osiyoning qoq markazida, Sirdaryo va Amudaryo o'rtasida joylashgan. Qozog'iston, Qirg'iziston, Tojikiston, Afg'oniston va Turkmaniston bilan chegaradosh. Mamlakatning deyarli uchdan ikki qismi dasht va cho'llar, qolgan uchdan bir qismi tog'lar, vodiylar va vohalardir."
+        },
+
+        "area": {
+            "title": "Hudud:",
+            "text": "447,900 kv. km. Qoraqalpog'iston Respublikasi O'zbekiston hududining 37 foizini egallagan O'zbekistonning bir qismidir. Mamlakat hududining shimoldan janubgacha uzunligi 930 km, g'arbdan sharqqa 1425 km."
+        },
+
+        "population": {
+            "title": "Aholisi:",
+            "text": "29 milliondan ortiq kishi (2011 yil ma'lumotlari). Ulardan 37% shahar aholisi va 63% qishloq aholisi. Aholi zichligi: 60 kishi / km². Tarkibi: 80% o'zbeklar, 5,5% ruslar, 5% tojiklar, 5% qozoqlar, 2% qoraqalpoqlar, 1,5% tatarlar."
+        },
+
+        "politicalstructure": {
+            "title": "Siyosiy tuzilish.",
+            "text": " 1991 yildan boshlab O'zbekiston suveren huquqiy demokratik respublika hisoblanadi. MDHning bir qismi. O'zbekiston Respublikasining davlat hokimiyati tizimi hokimiyatni qonun chiqaruvchi, ijro etuvchi va sudga bo'linishi printsipiga asoslanadi. Ma'muriy-hududiy bo'linish: 12 viloyat, suveren Qoraqalpog'iston Respublikasi."
+        },
+
+        "capital": {
+            "title": "Poytaxt:",
+            "text": "2,5 milliondan ortiq aholisi bo'lgan Toshkent shahri. Toshkent butun Markaziy Osiyo va Qozog'istonda metro bor yagona shahar. Davlat tili: o'zbek tili. Aholining taxminan 80% rus tilida turli darajada gaplashadi."
+        },
+
+        "currencyunit": {
+            "title": "Valyuta birligi:",
+            "text": "sum. Respublikada valyuta ayirboshlash shoxobchalari mavjud bo'lib, u erda valyutani amaldagi kurs bo'yicha almashtirishingiz mumkin. Dinlar. Sunniy islomni aholining taxminan 88%, nasroniylik - 9%, boshqa dinlar - 3% tashkil qiladi. Umuman olganda, aholi bag'rikenglik va o'zaro hurmatga rioya qiladi. Standart vaqt zonasi: UTC / GMT +5 soat. Elektr quvvati: 220 V o'zgaruvchan tok, 50 Hz; standart ikkita vilka rozetkasi."
+        },
+
+        "climateinuzbekistan": {
+            "title": "O'zbekistonda iqlim.",
+            "text": "O'zbekistonning iqlimi bu mamlakat bo'ylab yil davomida sayohat qilish uchun qulaydir. Shunga qaramay, O'zbekistonga tashrif buyurish uchun eng yaxshi vaqt: - martdan iyul oyining boshigacha; - sentyabrdan noyabrgacha. O'zbekistonning iqlimi keskin kontinentaldir. Qishning o'rtacha harorati +10 dan - 8 C gacha. Bahor go'zal va o'tkinchi, Sharqiy Yangi yildan - bahor bayrami va Navro'zning yangilanishi - harorat tez ko'tariladi va allaqachon aprel oyining oxirida xavfsiz tarzda yozgi kiyimlarni kiying (aprel oyida harorat +20 dan + 25 C gacha). O'zbekistonda yoz uzoq, quruq va issiq, harorat +35 dan +45 S gacha. Issiqlikning eng yuqori nuqtasi 25 iyundan 5 avgustgacha bo'lgan davrga to'g'ri keladi - chilla deb ataladigan, issiq quruq shamollar esganda, yog'ingarchilik bo'lmaydi, soyada harorat + 40-45 C ga etadi va ba'zi hududlarda mamlakatning bu darajasi undan yuqori. Chilli dan keyin issiqlik pasayadi va eng serhosil vaqt keladi, u kun davomida hali ham issiq bo'lsa-da, kechqurun va kechaning boshlanishi bilan uzoq kutilgan salqinlik keladi. O'zbekistonda kuz baxmal, iliq va saxovatli: bozor rastalari pishgan mevalar, sabzavotlar va qovunlarga to'la. Noyabr oyining oxirigacha harorat +10 C dan pastga tushmasligi mumkin."
+        },
+
+        "dress": {
+            "title": "O'zbekistonda qanday kiyinish kerak.",
+            "text": "Mavsumga qarab, O'zbekistonda sayohat qilish uchun kiyimlar har xil bo'lishi mumkin, lekin ular har doim qulay, tanish va yuqorida ko'rsatilgan harorat rejimiga mos kelishi kerak. Issiq havoda siz paxta va boshqa tabiiy matolardan tayyorlangan narsalarga ustunlik berishingiz kerak. Futbolkalar va keng shimlar erkaklar va ayollar uchun juda mos keladi. Issiq havoda har doim quyoshdan saqlaydigan ko'zoynaklar, shlyapa yoki kepka ko'rinishidagi yengil shlyapa va quyoshdan saqlovchi vositalarni olib yurish maqsadga muvofiq bo'ladi. Qulay poyabzal haqida unutmang, chunki ekskursiya dasturlarining aksariyati yurishadi. Poyafzallarni nafaqat qulay, balki amaliy, kuchli taglik bilan va baland ayol poshnasiz olish tavsiya etiladi, chunki ekskursiyalar toshli yoki changli yo'l bo'ylab ham bo'lishi mumkin. Erta bahorda (mart - aprel oyining boshlarida) va kech kuzda (oktyabr - noyabr) shamol shamolini, ko'ylagi va ingichka kozokni olib yurish ortiqcha bo'lmaydi. Qishda, harorat minus 3-8 ° S gacha tushishi mumkin, shuning uchun eng yaxshi variant - yomg'ir ko'ylagi yoki issiq ko'ylagi va shlyapa. Agar siz tog'larni yoki cho'lni ziyorat qilmoqchi bo'lsangiz, u erda kunduzi va tungi harorat o'rtasidagi farq sezilarli bo'lishi mumkinligini hisobga olish kerak, bundan tashqari tog'larda u odatda shaharlarga qaraganda ancha sovuq. Albatta, siz mahalliy urf-odatlar, madaniyat va dinga hurmat haqida unutmasligingiz kerak. Shuning uchun, diniy ibodat joylariga tashrif buyurganingizda, bosh va elkangizni yopishingiz uchun yoningizda ro'mol yoki ro'mol borligiga ishonch hosil qiling. Iltimos, shuni ham unutmangki, O'zbekistondagi ibodat uylariga borishda poyabzalingizni echib oling. Siz O'zbekistonning chekka hududlari aholisi tomonidan tushunmovchiliklarga olib kelmaslik uchun provokatsion tarzda kiyinishingiz yoki juda yorqin taqinchoqlar taqmasligingiz kerak."
+        },
+
+        "kitchen": {
+            "title": "O'zbek oshxonasi.",
+            "text": "O'zbek milliy taomlari juda boy va xilma-xil: o'nlab turdagi palov, manti, samsa, shashlik, lag'mon, xonum, mampar, chuchvara, sharqona shirinliklar va boshqa o'zbek taomlarini respublikaning deyarli barcha kafe va restoranlarida tatib ko'rish mumkin. O'zbek oshxonasining eng keng tarqalgan taomlari: palov - guruch, sariyog ', go'sht, sabzi tayyorlanadigan taom; har bir o'zbek shahrida bu mazali milliy Osiyo taomini tayyorlash uchun o'ziga xos retsepti mavjud; Shish kabob - bu ochiq olovda pishiriladigan go'shtli taom; turli xil variantlar va pishirish usullari bilan farq qiladi; Samsa - go'sht, kartoshka yoki oshqovoq bilan to'ldirilgan, maxsus pechda pishirilgan uchburchak puff piroglar - tandir; Shurpa - yangi qo'zichoq va sabzavotlardan tayyorlangan osh; Nahud - O'rta Osiyoda qo'zichoq bilan qovurilgan yirik no'xat; Manty - bu maydalangan go'sht yoki oshqovoq bilan to'ldirilgan xamirturushsiz xamirdan tayyorlangan dumli yog 'yog'i, an'anaviy o'zbek ziravorlari - zira va qora murch bilan piyoz."
+        },
+
+        "visadocument": {
+            "title": "Viza, hujjatlar va xavfsizlik.",
+            "text": "O'zbekistonga kirish xorijiy pasport bilan amalga oshirilishi kerak. O'zbekistonga viza olish uchun talab qilinadigan hujjatlar ro'yxati sizning fuqaroligingizga qarab sezilarli darajada farq qilishi mumkin. Tojikiston va Turkmanistondan tashqari MDH mamlakatlari bilan O'zbekiston vizasiz rejim to'g'risida ikki tomonlama shartnomalarni imzoladi. O'zbekiston Respublikasiga kelganlar bojxona deklaratsiyasini tuzishlari kerak (2 nusxada), unda chet ellik sayyoh mamlakatga olib kirgan barcha qimmatbaho narsalarni (zargarlik buyumlari, valyuta, jihozlar) deklaratsiyalashi va ikkinchi nusxasini muhr bilan saqlashi kerak. chegarachilar o'zbekiston chegarasini keyingi kesib o'tguniga qadar. Agar siz do'stlaringiz bilan qolishni rejalashtirsangiz, mehmonxonada yoki hududiy OVIRda O'zbekistonda vaqtincha yashash joyida ro'yxatdan o'tishingiz mumkin. Ro'yxatdan o'tish guvohnomasi har doim jo'nab ketguncha yoningizda bo'lishi kerak - O'zbekistondan chiqib ketayotganda pasport nazorati xodimlaridan uni taqdim etishni so'rashlari mumkin. Shaxsiy buyumlaringizni qarovsiz qoldirmang (aeroportda, temir yo'l stantsiyasida, boshqa gavjum joylarda). Agar mehmonxonada seyf bo'lmasa, hujjatlar, qimmatbaho buyumlar, bank kartalari va pullarni yoningizda saqlang. Agar sog'liq xususiyatlari dori-darmonlarni qabul qilishni talab qilsa, kerakli miqdordagi dori-darmonlarni o'zingiz bilan olib kelish yoki turoperatorlarimiz bilan oldindan kerakli dori-darmonlarni O'zbekistonda sotib olish imkoniyati to'g'risida maslahatlashish tavsiya etiladi."            
+        },
+
+        "customs": {
+            "title": "O'zbekistonning bojxona qoidalari.",
+            "text": "O'zbekistonga kirish uchun siz yoningizda pasportingiz va bojxona postida 2 ta deklaratsiyani to'ldirishingiz kerak, ulardan bittasi safar oxirigacha saqlanishi kerak. Bojxona tekshiruvi, avvalambor, deklaratsiyani to'ldirishdir, unda siz mamlakatga qancha pul va qaysi valyutada olib kirilayotganingizni, sizda qurol, psixotrop moddalar va boshqa narsalar haqida ma'lumot berishingiz kerakligini ko'rsatib o'tishingiz kerak. oldinga. Ushbu deklaratsiyani ikki nusxada to'ldirganingizga ishonch hosil qiling. Tekshirilgandan so'ng, bojxona deklaratsiyasining bitta nusxasi har doim bojxona postida qoladi, ikkinchi nusxasi esa safar tugaguniga qadar saqlanishi kerak - bu mamlakatdan chiqib ketganingizda kerak bo'ladi. Gap shundaki, O'zbekistondan chiqib ketayotganda deklaratsiyani yana to'ldirasiz. Qaytishda bojxona xodimi birinchi deklaratsiyani talab qilishi mumkin. Agar u qo'lingizda bo'lmasa, qanday qilib siz, masalan, chetdan olib kirilgan pulni eksport qilmasligingizni isbotlaysiz? O'zbekistonga naqd xorijiy valyutani olib kirish cheklanmagan. 5000 AQSh dollaridan ortiq (yoki boshqa xorijiy valyutadagi ekvivalenti) import qilinayotganda bojxona organlari TS-28 shaklidagi guvohnomani berishadi. Chet el valyutasini 10000 AQSh dollaridan ortiq miqdorda olib kirishda 1 foiz miqdorida yig'im olinadi. Chet el valyutasini olib chiqishga bojxona deklaratsiyasiga muvofiq respublikaga olib kelingan miqdor doirasida yo'l qo'yiladi."
+        },
+
+        "currencyofuzbekistan": {
+            "title": "O'zbekiston Valyutasi.",
+            "text": "O'zbekiston milliy valyutasi - o'zbek so'm (UZS). Muomalada 100, 200, 500, 1 000 so'm qiymatidagi banknotlar, shuningdek, 25, 50, 100 va 500 so'm tangalar mavjud. Deyarli barcha veksellar bir xil darajada va faqat rang sxemasida farq qiladi. Banknotlarda O'zbekiston madaniyati va san'ati yodgorliklari tasvirlangan. Valyutani milliy bank filiallarida, maxsus almashuv punktlarida va ayrim mehmonxonalarda almashtirish mumkin. Jismoniy shaxslardan valyuta almashinuvi qonun bilan jazolanadi. Va, birinchi navbatda, firibgarlik qurboni bo'lish xavfi va, ikkinchidan, huquqni muhofaza qilish organlari vakillari sizni ushlab turishsa, jiddiy muammolarga duch kelishlari kerakmi? Ta'kidlash joizki, Markaziy Osiyoda eng mashhur valyuta AQSh dollari bo'lib qolmoqda. Biroq, veksellar burishmasligi kerak, har qanday zarar, burmalar bo'lishi kerak, aks holda ularni almashtirish juda qiyin bo'ladi. O'zbekistonda MasterCard va Visa kredit kartalaridan asosan faqat poytaxtda foydalanish mumkin."
+        },
+
+        "photography": {
+            "title": "O'zbekistonda suratga olish.",
+            "text": "O'zbekiston fotoapparat ob'ektiviga kirishni talab qiladigan chiroyli joylarga boy. Biroq, O'zbekistonda aeroportda, harbiy ob'ektlarda, ayrim diniy joylarda iTashkent metrosida suratga olish taqiqlanganligini bilish kerak. Ko'pgina tarixiy va me'moriy yodgorliklarda tortishish to'lanadi."
+        },
+
+        "tipping": {
+            "title": "O'zbekistonda maslahatlar.",
+            "text": "O'zbekiston qadim zamonlardan buyon o'z fuqarolarining mehmondo'stligi va quvonchi bilan mashhur. O'zbek zaminiga kelgan har qanday sayohatchi darhol mehmonni eng yaxshi tarzda qabul qilish istagida hech qanday keskinlik yoki o'z manfaatini ko'zlab bo'lmaydi,deb his qiladi. O'zbekiston aholisi uchun mehmondo'stlik hayotning normasi ekanligi hech kimga sir emas, ba'zida bu sayyohlar orasida katta hayratga sabab bo'ladi. Bunday mehribon va samimiy munosabatga javoban mehmonlar ko'pincha egalariga minnatdorchilik bildirishga harakat qilishadi. Mehmonning bunday javobiga ko'ra, ko'pchilik o'zbeklar hayron bo'lib elkalarini silkitib, hatto xafa bo'lishadi: nima uchun?! Axir, biz butun qalbimiz bilan!». Biroq, O'zbekistonda, turizm mavjud bo'lgan har qanday mamlakatda bo'lgani kabi, xizmat ko'rsatish sohasi xodimlari tushunchasi ham mavjud. Haqiqatan ham, sayyohlar, ekskursiyalar, tarjimonlar, haydovchilar, Garsonlar va boshqalar kabi turizm uchun muhim kasb — hunarlarsiz qanday qilish kerak-bularning barchasi to'g'ridan-to'g'ri turistik dasturlarning sifatli o'tkazilishiga bog'liq va ularning barchasi sayyohlarga g'amxo'rlik va e'tibor ko'rsatadi. Xizmat xodimlariga nisbatan mehmondan minnatdorchilik harakati juda mos keladi. Shuning uchun, agar siz restoranda qanday xizmat qilganingizni, bir shahardan ikkinchisiga qanday qilib olib ketilganingizni, qanday qilib tarjima qilinganingizni, tillar orasidagi chegaralarni oshkora qilishni yoki yordam berishni xohlaganingizni, har qanday savol va muammolarni hal qilishga harakat qilishni xohlaganingizni yoqtirsangiz — ish uchun rahmat aytishdan qo'rqmang. Albatta, siz buni qilishingiz shart emas, lekin agar sizning xohishingiz yurakdan chiqsa, siz to'g'ri tushunasiz va minnatdorchilik bilan qabul qilasiz, uning hajmi yana sizga bog'liq."
+        },
+
+        "souvenirs": {
+            "title": "O'zbekiston Suvenirlari.",
+            "text": "Xalq hunarmandchiligining noyob san'ati O'zbekistonda hamma joyda, ko'p qirrali va o'ziga xos tarzda ishlab chiqilgan: kulolchilik, yog'och o'ymakorligi, ganch (gips o'ymakorligi), pichoq yasash, zarbxona, gilam to'qish, ipak va Xan-atlas, tol novda to'qish, teri va quritilgan qovoq ustida bo'yash, oltin ip va boncuk kashta tikish, Suzan, milliy liboslar (chapanlar, do'ppilar, uzum — ayollar milliy trico) va poyabzal (o'tkir tufli, mahse — yumshoq teri mo'ynali kiyimlardan), uy anjomlari (kurpachi, beshik — bolalar beshiklari, idish-tovoqlarni saqlash uchun ko'krak qafasi, idish-tovoqlar) va yana ko'p narsalar. Siz bozorlarda, ekskursiya ob'ektlariga tashrif buyurganingizda, ixtisoslashtirilgan do'konlarda va supermarketlarning yodgorlik bo'limlarida, shuningdek, har qanday shaharda joylashgan kichik xarid qilish do'konlarida bepul yodgorlik mahsulotlarini sotib olishingiz mumkin. Yodgorlik mahsulotlarining deyarli barcha turlarini mamlakatdan olib chiqish mumkin, ammo ba'zi nuances mavjud. Masalan, gilamlarni olib tashlash uchun cheklov mavjud - bu haqda siz xarid qilishdan oldin ko'rsatmaingizdan bilib olishingiz mumkin. Bu, albatta, har qanday boshqa mamlakatda bo'lgani kabi, qadimiy narsalarni olib tashlash taqiqlanadi."
+        },
+
+        "nationalholidays": {
+            "title": "O'zbekistonda milliy bayramlar.",
+            "text": "Davlat bayramlari: 1 yanvar-yangi yil; 8 mart - xalqaro xotin-Qizlar kuni; 21 mart-Navro'z (Sharq yangi yili); 9 may-xotira va qadrlash kuni; 1 sentyabr — Mustaqillik kuni; 1 oktyabr-o'qituvchi va murabbiylar kuni; 8 dekabr — Konstitutsiya kuni."
+        },
+
+        "relHoliday": {
+            "title": "O'zgaruvchan sanalar bilan diniy bayramlar: Ramazon Hayit, Qurbon Hayit."
+        },
+
+        "statesymbols": {
+            "title": "O'zbekiston davlat ramzlari: bayroq, gerb va madhiya.",
+            "text": "O'zbekiston bayrog'i boy ko'k, oq va yashil rangdagi uchta gorizontal teng o'lchamli chiziqlardan iborat. Oq chiziq qizil chiziqlar bilan yuqoridan va pastdan kesilgan. Chapdagi yuqori ko'k chiziqda oq yarim oy va 12 oq yulduzlar tasvirlangan. Bayroqning ko'k rangi osmon va suvni ifodalaydi — hayotning ikki asosiy manbai. Bundan tashqari, ko'k — o'zbeklar tegishli bo'lgan turkiy xalqning asl rangi. Bayroqning oq chizig'i-respublika aholisi uchun an'anaviy tinchlik ramzi, yaxshi yo'l orzusi (OK yul), fikrlar va harakatlarning axloqiy pokligiga intilish. Yashil-tabiatning rangi, yangi hayot (Navro'z) va unumdorligi. Bundan tashqari, yashil — Islomning rangi. Yuqori va pastki qismidagi o'rta (oq) chiziqni o'rab turgan qizil chiziqlar har bir tirik organizmning hayotiy kuchini ta'kidlaydi. Bundan tashqari, odamlarda bu ikki chiziq O'zbekiston yerlarini — Amudaryo va Sirdaryo daryolarini oziqlantiradigan qon tomirlari deb hisoblanadi. O'zbekiston bayrog'idagi yosh yarim oy yangi tug'ilgan mustaqil musulmon Respublikasining ramzi sifatida qaraladi. Barcha xalqlar bayrog'idagi 12 yulduzlari bulutsiz osmonning ramzi sifatida qaraldi. 12 yulduzlarini hurmat qilish Navro'zdan boshlangan quyoshli yilni eslatadi-bahor boshlanishi. O'zbekistonda 12 yillik quyoshli tsikl Muchalom deb ataladi. Sharqiy faylasuf olimlarining fikriga ko'ra, 12 raqami barcha qamrov va kamolotning belgisidir. Biz yashayotgan dunyo 4 elementlaridan iborat: er, havo, suv va olov, uch darajada namoyon bo'ladi: er, osmon va osmon va er o'rtasida. O'zbekiston Gerbi. Markazda Humo qushi qanotlarga boy - o'zbek mifologiyasida baxt-saodat va erkinlik muhabbat timsoli tasvirlangan. Gerbning yuqori qismida respublika tasdig'ini ifodalaydigan, yarim oy ichida yulduz bilan ifodalanadigan sekizgen bor. Quyosh tasviri o'zbek davlatining yo'lini yorituvchi nurni ifodalaydi, shuningdek, respublikaning noyob tabiiy-iqlim sharoitiga urg'u beradi. Qush ostida tasvirlangan ikkita Daryo Amudaryo va Sirdaryadir. Quloqlar nonning ramzi bo'lib, paxta ochilgan qutilariga ega bo'lgan somonlar O'zbekistonning asosiy boyligini ifodalaydi. Birgalikda, davlat bayrog'i lentasi bilan o'ralgan paxta quloqlari va qutilari respublikada yashovchi xalqlarning mustahkamlanishini anglatadi. O'zbekistonda telefon kodlari. O'zbekiston xalqaro kodi: + 998 (8-10 998) O'zbekistonning yirik shaharlari shahar liniyalari telefon kodlari: Toshkent: 71 (xalqaro), 371 (ichki); Samarqand: 662 (xalqaro), 366 (ichki); Buxoro: 65 (xalqaro), 365 (ichki); Xiva: 6237(xalqaro), 36237 (ichki). Masalan, chet eldan Toshkentga qo'ng'iroq qilish uchun: + 998 71 ... (yetti xonali shahar tel. raqami) ni terish kerak, Toshkentga O'zbekistonning boshqa shahridan qo'ng'iroq qilish uchun: 8-371 ...(yetti xonali shahar tel. raqami)."
+        },
+
+        "mobileoperators": {
+            "title": "O'zbekiston uyali aloqa operatorlari:",
+            "text": {
+                "ucell": "Ucell GSM 900/1800 standart xalqaro kod: + 998 93/94 www.ucell.uz",
+                "beeline": "Beeline O'zbekiston GSM standarti xalqaro kodi: + 998 90/91 www.beeline.uz",
+                "uzmobile": "UzMobile CDMA-450 standart xalqaro kodi: + 998 95 www.uzcdma.uz",
+                "perfectum": "Perfectum Mobile CDMA 2000 standart xalqaro kodi: + 998 98 www.cdma.uz"
+            }
+        },
+
+        "embassies": {
+            "text1": "O'zbekistondagi xorijiy elchixonalar va konsulliklar. Toshkentda dunyoning turli mamlakatlaridagi 50 ta elchixona va konsulliklar mavjud.",
+            "text2": "O'zbekistonning chet eldagi elchixonalari va konsulliklari. O'zbekiston Osiyo va Yevropa mamlakatlari hududida, shuningdek, AQShda 30 dan ortiq elchixona va 10 dan ortiq konsullikka ega."
+        }
+    },
+
+    "hotels": {
+        "title": "Mehmonxonalar",
+        "cities": "Shaharlar",
+        "address": "Manzil",
+        "to_the_airport": "Aeroportga",
+        "to_the_station": "Temir yo'l vokzaliga",
+        "city_center": "Shahar markaziga",
+        "metro": "Eng yaqin metro bekatigacha",
+        "attractions": "Yaqin atrofdagi diqqatga sazovor joylar",
+        "fund": "Xonalar jamg'armasi",
+        "services": "Xizmatlar",
+        "booking_rules": "Rezervasyon qoidalari",
+        "check-in_time": "Ro'yxatdan o'tish vaqti",
+        "check-out_time": "Chiqish vaqti",
+        "accommodation_for_children": "Bolalar uchun turar joy",
+        "pets": "Uy hayvonlari turar joyi",
+        "404": "Mehmonxonalar topilmadi"
+    },
+
+
+    "tour": {
+        "mainInfo": "Asosiy ma'lumotlar",
+        "itinerary": "Marshrut",
+        "reviews": "Sharhlar",
+        "days": "Kun",
+        "day": "Kun",
+        "nights": "Kechalar",
+        "services": "Ekskursiyalar narxiga kiritilgan xizmatlar",
+        "services_notIncluded": "Ekskursiyalar narxiga kiritilmagan xizmatlar",
+        "notes": "Eslatmalar",
+        "price": "Narx",
+        "bonus1": "10 haftani oldindan bron qiling va kattalar uchun 125 dollar chegirma oling, har bir bola uchun 95 dollar",
+        "bonus2": "Oldindan 08 haftani bron qiling va kattalar uchun $ 90 chegirma oling - $ 67",
+        "book": "Hozir bron qiling",
+        "call": "Hoziroq qo'ng'iroq qiling"
+        
+    },
+
+    "uslugi": "Xizmatlar litsenziyalangan"
+
+    
+
+
+    
+}

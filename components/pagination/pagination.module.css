@@ -1,0 +1,33 @@
+
+.paginationContainer {
+    width: 100%;
+    display: block;
+}
+
+.pagination {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    margin: 0;
+    padding: 0;
+
+}
+
+.item {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border: none;
+    border-radius: 100px;
+    background-color: #2275c9;
+    color: #fff;
+    font-weight: 500;
+}
+
+.prev, .next {
+    background-color: transparent;
+    border: none;
+    font-size: 21px;
+    color: #8B00FF;	
+}

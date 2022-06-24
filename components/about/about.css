@@ -1,0 +1,105 @@
+
+.about {
+	position: relative;
+	z-index: 5;
+}
+
+.about h2 {
+	margin-bottom: 25px;
+
+	color: #000;
+
+	font-size: 36px;
+}
+
+.about p {
+	color: #726C74;
+
+	font-size: 14px;
+}
+
+.about-text-2 {
+	margin-bottom: 20px;
+}
+
+.about .bridge-name {
+	position: absolute;
+	bottom: -50px;
+	left: 80%;
+
+	transform: translateX(-50%);
+	transform: rotateZ(337deg);
+
+	color: #4A4A4A;
+
+	font-size: 36px;
+}
+
+.about .bg-cloud {
+	position: absolute;
+	z-index: 1;
+
+	width: 100%;
+	height: 100%;
+}
+
+.about .bg-cloud img {
+	position: absolute;
+	z-index: 1;
+}
+
+.about .bg-cloud img:nth-child(1) {
+	top: 60%;
+	left: 50%;
+}
+
+.about .bg-cloud img:nth-child(2) {
+	top: -50%;
+	left: 0;
+}
+
+.about .bg-cloud img:nth-child(3) {
+	top: -50%;
+	right: 20%;
+}
+
+.about .bg-cloud img:nth-child(4) {
+	top: 70%;
+	left: 0;
+}
+
+.about .bg-cloud img:nth-child(5) {
+	top: 20%;
+	right: -10%;
+
+	transform: rotateZ(335deg);
+}
+
+.about .btn {
+	z-index: 5;
+
+	margin-top: 25px;
+	padding: 12px 40px;
+
+	letter-spacing: 4px;
+
+	color: #858585;
+	border: 1px solid #333;
+	border-radius: 100px;
+	background-color: transparent;
+
+	font-size: 12px;
+	font-weight: 700;
+}
+
+.about .btn:hover {
+	color: #FFF;
+	border: 1px solid #3E3E3E;
+	background-color: transparent;
+}
+
+@media screen and (max-width: 400px) {
+	.about .bridge-name {
+		left: 50%;
+	}
+}

@@ -1,0 +1,58 @@
+.tour_tabs {
+	height: auto;
+	margin: 50px 0;
+
+	/* background-color: #666; */
+}
+
+.testimonials {
+	padding: 50px 40px 50px 40px;
+
+	background-color: #FCFCFC;
+}
+
+.testimonials_title {
+	position: relative;
+
+	margin: 0 0 36px 0;
+
+	color: #000;
+
+	font-size: 36px;
+	font-weight: 300;
+}
+
+.testimonials_title::after {
+	position: absolute;
+	top: 50%;
+
+	width: 85%;
+	height: 1px;
+
+	content: '';
+
+	background-color: #5A748F;
+}
+
+.tab__tour {
+	padding-top: 35px;
+	padding-bottom: 60px;
+
+	background-color: #FCFCFC;
+}
+
+.icon_box {
+	display: flex;
+}
+
+.icon {
+	padding: 2px;
+
+	background-color: #F3F5F6;
+}
+
+.about_hotel {
+	height: 100%;
+
+	color: #000;
+}
